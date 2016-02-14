@@ -8,10 +8,10 @@ $.get('words', function(data) {
 	var lines = data.split("\n");
 	for (var i = 0, len = lines.length; i < len; i++) {
 		dict.push({key: lines[i],
-					value: "" });
+			value: "" });
 		//console.log(lines[i]);
-		}
-	}, 'text');
+	}
+}, 'text');
 
 // Called when the user clicks on the browser action.
 chrome.browserAction.onClicked.addListener(function(tab) {
@@ -22,12 +22,3 @@ chrome.browserAction.onClicked.addListener(function(tab) {
   });
 });
 
-
-//Opens a new tab based on content.js
-chrome.runtime.onMessage.addListener(
-	function(request, sender, sendResponse) {
-		if( request.message === "open_new_tab" ) {
-			chrome.tabs.create({"url": request.url});
-		}
-	}
-	);
