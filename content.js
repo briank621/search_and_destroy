@@ -13,9 +13,19 @@ chrome.runtime.onMessage.addListener(
 	}
 	);
 
+var findSynonym = function(paragraph){
+	var text = paragraph.html();
+	chrome.runtime.sendMessage({type: "request", content: text}, 
+		function(response){
+			paragraph.html(response.content);
+		});
+}
+
 $(document).ready(function(){
-	$("p").each(function(){
-		console.log($(this).text() );
+	$("p").each( function(){
+		//console.log($(this).text() );
+		//replace words with their synonyms
+		findSynonym($(this));
 	});
 	// The node to be monitored
 	var target = $("body,html");
@@ -26,16 +36,14 @@ $(document).ready(function(){
 		//console.log("TRIGGERED");
 	    var newNodes = mutation.addedNodes; // DOM NodeList
 	    if( newNodes !== null ) { // If there are new nodes added
-	    	//console.log("TRIGGERED");
 	    	var $nodes = $( newNodes ); // jQuery set
 	    	$nodes.each(function() {
 	    		var $node = $( this );
 	    		var $paragraphs = $node.find("p");
 	    		$paragraphs.each(function(){
-	    			//console.log("P TRIGGERED");
-	    			console.log($(this).text() );
+	    			//console.log($(this).text() );
+	    			findSynonym($(this));
 	    		});
-	    		//console.log($node.prop("tagName"));
 	    	});
 	    }
 	});
@@ -48,8 +56,6 @@ $(document).ready(function(){
 		characterData: true,
 		subtree: true 
 	};
-
-	console.log(target[0].childNodes);
 
 	// Pass in the target node, as well as the observer options
 	observer.observe(target[0], config);

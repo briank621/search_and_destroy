@@ -2,6 +2,7 @@
 
 //initialize the words
 var dict = [];
+var seenWords = [];
 
 //reads the wordlist
 $.get('words', function(data) {
@@ -12,6 +13,30 @@ $.get('words', function(data) {
 		//console.log(lines[i]);
 	}
 }, 'text');
+
+//Listens for words to replace
+chrome.runtime.onMessage.addListener(
+	function(message, sender, sendResponse) {
+		var ans = ""; //the string to return
+		if (message.type == "request"){
+    		var text = message.content;
+    		//console.log(message.content);
+    		var words = text.split(" ");
+    		for (var i = 0, len = words.length; i < len; i++) {
+    			//check if it contains only letters
+    			var word = words[i];
+    			if(/^[a-zA-Z]+$/.test(word))
+    				ans += "REPLACED ";
+    			else
+    				ans += word + " ";
+    		}
+    	}
+    	var resp = {type: "response", content: ans};
+    	sendResponse(resp);
+    	return true;
+	}
+);
+
 
 // Called when the user clicks on the browser action.
 chrome.browserAction.onClicked.addListener(function(tab) {
