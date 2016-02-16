@@ -23,7 +23,6 @@ var findSynonym = function(paragraph){
 
 $(document).ready(function(){
 	$("p").each( function(){
-		//console.log($(this).text() );
 		//replace words with their synonyms
 		findSynonym($(this));
 	});
@@ -33,7 +32,6 @@ $(document).ready(function(){
 	// Create an observer instance
 	var observer = new MutationObserver(function(mutations) {
 		mutations.forEach(function(mutation) {
-		//console.log("TRIGGERED");
 	    var newNodes = mutation.addedNodes; // DOM NodeList
 	    if( newNodes !== null ) { // If there are new nodes added
 	    	var $nodes = $( newNodes ); // jQuery set
@@ -41,7 +39,6 @@ $(document).ready(function(){
 	    		var $node = $( this );
 	    		var $paragraphs = $node.find("p");
 	    		$paragraphs.each(function(){
-	    			//console.log($(this).text() );
 	    			findSynonym($(this));
 	    		});
 	    	});

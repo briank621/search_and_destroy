@@ -10,7 +10,8 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["jquery-1.12.0.min.js", "content.js"]
+      "js": ["jquery-1.12.0.min.js", "content.js"],
+      "css": ["background.css"]
     }
   ],
   "background": {

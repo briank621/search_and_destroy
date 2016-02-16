@@ -25,8 +25,9 @@ chrome.runtime.onMessage.addListener(
     		for (var i = 0, len = words.length; i < len; i++) {
     			//check if it contains only letters
     			var word = words[i];
+    			var word = "REPLACED";
     			if(/^[a-zA-Z]+$/.test(word))
-    				ans += "REPLACED ";
+    				ans += "<span class='highlight-replace'>" + word + " </span>";
     			else
     				ans += word + " ";
     		}
