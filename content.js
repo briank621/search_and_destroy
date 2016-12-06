@@ -15,8 +15,11 @@ chrome.runtime.onMessage.addListener(
 
 var findSynonym = function(paragraph){
 	var text = paragraph.html();
+	console.log("TEXT: " + text)
 	chrome.runtime.sendMessage({type: "request", content: text}, 
 		function(response){
+			console.log("RESP: "+response)
+
 			paragraph.html(response.content);
 		});
 }
@@ -58,6 +61,19 @@ $(document).ready(function(){
 	observer.observe(target[0], config);
 });
 
+$('span.highlight-replace').qtip({
+	content: {
+		text: "Yes, please work"
+	},
+	show: 'click',
+	hide: 'click'
+});
+
+$('a').qtip({
+	content: {
+		text: "Yes, please work"
+	},
+	show: 'click',
+	hide: 'click'
+});
 //http://words.bighugelabs.com/api/{version}/{api key}/{word}/{format}
-
-

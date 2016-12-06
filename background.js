@@ -6,12 +6,14 @@ var seenWords = {};
 var skipwords = {};
 
 //reads the wordlist
-$.get('words', function(data) {
-	var lines = data.split("\n");
-	for (var i = 0, len = lines.length; i < len; i++) {
-    dict[lines[i]] = 1;
+$.get('syn.json', function(data) {
+  var syn = JSON.parse(data)
+  for (var key in syn){
+    dict[key] = syn[key]
   }
+  console.log('yay')
 }, 'text');
+
 
 //reads common words
 //reads the wordlist
@@ -27,6 +29,7 @@ chrome.runtime.onMessage.addListener(
 	function(message, sender, sendResponse) {
 		var ans = ""; //the string to return
 		if (message.type == "request"){
+
       var text = message.content;
     		//console.log(message.content);
     		var words = text.split(" ");
@@ -58,15 +61,23 @@ chrome.runtime.onMessage.addListener(
             continue;
           }
           //check if word can be skipped
-          if(skipwords[check_word] === 1 || !/^[a-zA-Z]+$/.test(word)){
+          if(skipwords[check_word] === 1 ||  !/^[a-zA-Z]+$/.test(word)){
             //console.log(check_word);
             ans += word + " ";
             continue;
           }
-          ans += "<span class='highlight-replace'>" + word + "</span> ";
+          if(!(check_word in dict)){
+            ans += check_word + " ";
+            continue;
+          }
+          var synonyms = dict[check_word];
+          var replace = synonyms[Math.floor(Math.random()*synonyms.length)];
+
+          ans += "<span class='highlight-replace' title='text'>HUYAH " + replace + "(" + word + ")" + "</span> ";
         }
       }
       var resp = {type: "response", content: ans};
+      console.log("SENDING:  " + resp.content)
       sendResponse(resp);
       return true;
     }

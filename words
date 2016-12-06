@@ -1,4842 +1,3337 @@
-abase
-abash
-abate
-abbreviate
-abdicate
-aberrant
-aberration
-abet
-abeyance
-abhor
-abject
-abjure
-ablution
-abnegation
-abolish
-abominate
-abominable
-aboriginal
-abortive
-abrasive
-abridge
-abrogate
-abscission
-abscond
-absolute
-absolve
-abstain
-abstemious
-abstinence
-abstract
-representational
-abstruse
-abusive
-abut
-abysmal
-abyss
-academic
-accede
-accelerate
-accessible
-accessory
-acclaim
-acclimate
-acclivity
-accolade
-merit
-demerit
-earn
-accommodate
-accomplice
-accord
-accost
-accoutre
-accretion
-accrue
-acerbity
-bitter
-biting
-acetic
-acidulous
-acknowledge
-acme
-acoustics
-acquiesce
-acquittal
-acrid
-acrimonious
-acrophobia
-actuarial
-actuary
-actuate
-acuity
-acumen
-acute
-adage
-proverb
-adamant
-adapt
-addendum
-addiction
-addle
-address
-adept
-adhere
-adherent
-adjacent
-adjoin
-adjourn
-adjunct
-adjuration
-adjutant
-admonish
-adore
-adorn
-adroit
-adulation
-adulterate
-advent
-adventitious
-adversary
-adverse
-adversity
-advert
-advocacy
-advocate
-aegis
-aerie
-aesthetic
-affable
-affected
-affidavit
-affiliation
-affinity
-affirmation
-affliction
-affluence
-affront
-agape
-agenda
-agglomeration
-aggrandize
-aggregate
-aghast
-agility
-agitate
-agnostic
-agog
-agrarian
-alacrity
-alchemy
-alcove
-alias
-alienate
-alimentary
-alimony
-allay
-allege
-allegiance
-allegory
-alleviate
-alliteration
-allocate
-earmark
-alloy
-allude
-allure
-siren
-alluvial
-aloof
-aloft
-altercation
-altruistic
-amalgamate
-amalgam
-amass
-amazon
-ambidextrous
-ambience
-ambiguous
-ambivalence
-amble
-ambrosia
-nectar
-ambulatory
-ameliorate
-amenable
-amend
-amenities
-amiable
-amicable
-amiss
-amity
-amnesia
-amnesty
-amoral
-amorous
-amorphous
-amphibian
-amphitheater
-ample
-amplify
-amputate
-amok
-amulet
-anachronism
-analgesic
-analgesia
-analogous
-analogy
-anarchist
-anarchy
-anathema
-ancestry
-anchor
-ancillary
-anecdote
-anemia
-anesthetic
-anguish
-angular
-animadversion
-animated
-animosity
-animus
-annals
-anneal
-annex
-annihilate
-annotate
-annuity
-annul
-elope
-anodyne
-anoint
-anomalous
-anomaly
-anonymity
-antagonism
-protagonist
-antecede
-antecedents
-antediluvian
-anthem
-anthology
-anthropoid
-anthropologist
-anthropomorphic
-anticlimax
-antidote
-antipathy
-antiquated
-antique
-antiquity
-antiseptic
-antithesis
-antler
-anvil
-apathy
-ape
-aperture
-apex
-aphasia
-aphorism
-apiary
-hive
-apiculture
-apiarist
-aplomb
-poise
-apocalyptic
-apocryphal
-apogee
-apolitical
-apologist
-apoplexy
-apostate
-apothecary
-apothegm
-apotheosis
-appall
-apparition
-appease
-appellation
-append
-application
-apposite
-appraise
-appreciate
-apprehend
-apprehensive
-apprise
-approbation
-appropriate
-appurtenances
-apropos
-aptitude
-aquiline
-arable
-arbiter
-arbitrary
-arbitrate
-arboretum
-arboreal
-arcade
-arcane
-archaeology
-archaic
-archetype
-arch
-archipelago
-archives
-ardor
-arduous
-argot
-aria
-arid
-aristocracy
-armada
-aromatic
-arraign
-array
-arrears
-arrhythmic
-arrogance
-arroyo
-artery
-articulate
-arsenal
-artifacts
-artifice
-artisan
-artless
-ascendancy
-ascertain
-ascetic
-ascribe
-aseptic
-ashen
-asinine
-askance
-askew
-asperity
-aspersion
-aspirant
-aspire
-assail
-assay
-assent
-assert
-assiduous
-assimilate
-assuage
-assumption
-regent
-assurance
-asteroid
-astigmatism
-astral
-astringent
-astronomical
-astute
-asunder
-asylum
-asymmetric
-atavism
-atheistic
-atone
-atrocity
-atrophy
-attentive
-attenuate
-attest
-attribute
-attrition
-atypical
-audacious
-audit
-augment
-augury
-august
-aureole
-auroral
-auspicious
-austere
-authenticate
-authoritarian
-authoritative
-autocratic
-automaton
-autonomous
-autopsy
-auxiliary
-avalanche
-avarice
-avenge
-aver
-averse
-aversion
-avert
-aviary
-avid
-avocation
-avow
-avuncular
-awe
-awful
-awl
-awry
-axiom
-azure
-babble
-bacchanalian
-bacchanal
-Bacchanalia
-badger
-badinage
-baffle
-bait
-baleful
-balk
-ballast
-balm
-pang
-balmy
-banal
-bandy
-bane
-bantering
-barb
-bard
-barefaced
-unregenerate
-baroque
-barrage
-barrister
-solicitor
-barterer
-bask
-luxuriate
-bastion
-bate
-bauble
-bawdy
-beatific
-bliss
-beatitude
-mystic
-bedizen
-finery
-bedraggle
-beeline
-befuddle
-fuddle
-beget
-begrudge
-grudge
-beguile
-behemoth
-beholden
-behoove
-belabor
-belated
-beleaguer
-belie
-belittle
-bellicose
-belligerent
-bemoan
-bemused
-benediction
-benefactor
-beneficent
-beneficial
-beneficiary
-benefit
-benevolent
-benign
-benison
-bent
-bequeath
-berate
-bereavement
-bereaved
-bereft
-berserk
-beseech
-beset
-hem
-besiege
-besmirch
-bestial
-bestow
-betoken
-token
-betray
-betroth
-bevy
-bicameral
-bicker
-biennial
-bifurcated
-bigotry
-bigot
-intolerant
-bilious
-bilk
-billowing
-billow
-swell
-surge
-bivouac
-bizarre
-blanch
-bland
-blandishment
-blare
-screech
-dazzle
-blas
-blasphemy
-blatant
-bleak
-blighted
-blight
-blithe
-bloated
-blowhard
-bludgeon
-bluff
-blunder
-blurt
-bluster
-bully
-bode
-bogus
-bohemian
-boisterous
-bolster
-bolt
-dart
-gobble
-bombardment
-bombastic
-bombast
-boon
-boorish
-boor
-bouillon
-bountiful
-gracious
-bourgeois
-bovine
-bowdlerize
-brackish
-braggadocio
-brag
-braggart
-brandish
-bravado
-swagger
-brawn
-brawny
-sturdy
-brazen
-brawl
-breach
-breadth
-brevity
-brindled
-tawny
-bristling
-bristle
-brittle
-broach
-brocade
-brochure
-brooch
-clasp
-brook
-browbeat
-browse
-graze
-skim
-brunt
-brusque
-buccaneer
-bucolic
-buffet
-slap
-buffoonery
-buffoon
-clown
-bugaboo
-bullion
-bulwark
-bungle
-botch
-buoyant
-bureaucracy
-burgeon
-burlesque
-burnish
-buttress
-prop
-buxom
-plump
-cabal
-cache
-cacophonous
-cadaver
-cadaverous
-cadence
-cajole
-coax
-calamity
-calculated
-caldron
-caliber
-calligraphy
-callous
-callus
-callow
-calorific
-calumny
-camaraderie
-cameo
-canard
-candor
-canine
-canker
-ulcer
-canny
-cant
-cantankerous
-cantata
-canter
-canto
-canvass
-capacious
-capacity
-capillary
-capitulate
-caprice
-capricious
-caption
-captious
-carafe
-carapace
-carat
-carcinogenic
-cardinal
-cardiologist
-careen
-career
-sway
-caricature
-carillon
-carnage
-carnal
-carnivorous
-carousal
-carping
-carrion
-cartographer
-cascade
-caste
-castigation
-casualty
-casual
-cataclysm
-catalyst
-catapult
-hurl
-cataract
-catastrophe
-catcall
-catechism
-categorical
-qualify
-catharsis
-cathartic
-catholic
-caucus
-caulk
-causal
-caustic
-cauterize
-cavalcade
-cavalier
-cavil
-cede
-celerity
-celestial
-hereafter
-afterlife
-celibate
-censor
-censorious
-censure
-centaur
-centigrade
-centrifugal
-centrifuge
-centripetal
-centurion
-cerebral
-cerebration
-ceremonious
-unceremonious
-certitude
-cessation
-cession
-chafe
-chaff
-chaffing
-chagrin
-chalice
-chameleon
-champion
-championship
-chaotic
-charisma
-charlatan
-chary
-chase
-chasm
-chassis
-chaste
-chasten
-chastise
-chauvinist
-check
-checkered
-cherubic
-chicanery
-chide
-chimerical
-chisel
-chip
-chivalrous
-choleric
-choreography
-chore
-chortle
-chuckle
-chronic
-chronicle
-churlish
-ciliated
-cipher
-circlet
-circuitous
-circuit
-circumlocution
-circumscribe
-circumspect
-circumvent
-cistern
-citadel
-cite
-civil
-clairvoyant
-hindsight
-clamber
-clamor
-clandestine
-chaperon
-clangor
-clapper
-clap
-clarion
-claustrophobia
-clavicle
-scrimmage
-cleave
-cleft
-clemency
-clich
-bromide
-clientele
-climactic
-clime
-clique
-cloister
-clout
-cloying
-coagulate
-clot
-pudding
-coalesce
-coalition
-coda
-coddle
-codicil
-codify
-coercion
-coeval
-cog
-cogent
-cogitate
-cognate
-cognitive
-cognizance
-cohabit
-cohere
-cohesion
-cohorts
-coiffure
-coin
-coincidence
-colander
-collaborate
-collage
-scrap
-scraps
-scrappy
-collate
-collateral
-collation
-colloquial
-colloquy
-collusion
-colossal
-colossus
-comatose
-coma
-combustible
-comely
-homely
-comestible
-comeuppance
-deserts
-comity
-commandeer
-draft
-draught
-commemorative
-commemorate
-commensurate
-commiserate
-commodious
-communal
-commune
-compact
-compatible
-compelling
-compulsion
-compulsory
-compulsive
-compendium
-compensatory
-compilation
-compile
-complacency
-smug
-complaisant
-complement
-complementary
-compliance
-compliant
-complicity
-component
-comport
-deport
-bearing
-composure
-compound
-comprehensive
-comprehend
-compress
-comprise
-compromise
-compunction
-compute
-reckon
-concatenate
-concave
-concede
-conceit
-vain
-concentric
-conception
-concerted
-concession
-conciliatory
-concise
-conclave
-conclusive
-concoct
-concomitant
-concord
-concordat
-concur
-concurrent
-condescend
-condign
-condiments
-condole
-condone
-conducive
-conduit
-confidant
-confide
-confidence
-confidential
-confine
-confiscate
-conflagration
-confluence
-conformity
-conformist
-confound
-congeal
-congenial
-congenital
-conglomeration
-conglomerate
-congruence
-congruent
-conifer
-conjecture
-conjugal
-conjure
-connivance
-connoisseur
-connotation
-connubial
-matrimony
-patrimony
-consanguinity
-consanguineous
-conscientious
-conscript
-consecrate
-consensus
-consequential
-conservatory
-consign
-consistency
-console
-consolidation
-consonance
-consonant
-consort
-conspiracy
-conspire
-consternation
-constituent
-constituency
-constitution
-constraint
-construe
-consummate
-contagion
-drastic
-contaminate
-contempt
-contend
-contention
-thesis
-boost
-contentious
-contest
-context
-contiguous
-continence
-contingent
-contortions
-contraband
-contravene
-contrite
-contrived
-contrive
-contrivance
-controvert
-contumacious
-contusion
-bruise
-conundrum
-convene
-convention
-conventional
-converge
-conversant
-converse
-convert
-convex
-conveyance
-conviction
-convivial
-convoke
-convoluted
-convulsion
-copious
-coquette
-flirt
-cordial
-cordon
-cornice
-cornucopia
-corollary
-corporeal
-corpulent
-corpus
-corpuscle
-correlation
-correlate
-corroborate
-corrode
-corrosive
-corrugated
-wrinkle
-crinkle
-cosmic
-coterie
-countenance
-countermand
-counterpart
-coup
-couple
-courier
-covenant
-bargain
-covert
-covetous
-cow
-cower
-coy
-cozen
-crabbed
-peevish
-crass
-craven
-credence
-credo
-credulity
-creed
-crescendo
-far
-overture
-crestfallen
-crest
-crevice
-cringe
-criteria
-crone
-crotchety
-crux
-crypt
-cryptic
-cubicle
-compartment
-cuisine
-culinary
-cull
-culmination
-culpable
-culprit
-culvert
-cumbersome
-cumulative
-cupidity
-curator
-curmudgeon
-cursive
-cursory
-curtail
-cynical
-cynosure
-dabble
-dais
-dally
-dank
-dapper
-dappled
-daub
-smear
-smudge
-daunt
-dauntless
-dawdle
-deadlock
-standstill
-deadpan
-dearth
-d
-debase
-kneel
-debauch
-seduce
-debilitate
-bout
-debonair
-d
-debunk
-debutante
-debut
-decadence
-decant
-decapitate
-decelerate
-deciduous
-decimate
-decipher
-declivity
-d
-decree
-decomposition
-decorum
-decorous
-decoy
-decrepitude
-decrepit
-decry
-deducible
-deface
-mar
-defame
-default
-defeatist
-defection
-defect
-defer
-deference
-defiance
-defile
-definitive
-deflect
-defoliate
-defray
-defrock
-frock
-deft
-defunct
-degenerate
-degradation
-dishonor
-dehydrate
-deify
-deign
-stoop
-delete
-deleterious
-deliberate
-delineate
-delirium
-delta
-delude
-deluge
-delusion
-delusive
-delve
-demagogue
-demean
-demeanor
-demented
-demise
-demographic
-demolition
-demoniac
-fiend
-demotic
-demur
-demure
-denigrate
-denizen
-denotation
-d
-denounce
-depict
-expos
-deplete
-deplore
-deploy
-battalion
-depose
-deposition
-depravity
-deprecate
-depreciate
-depredation
-deranged
-institute
-institution
-institutionalize
-derelict
-dereliction
-deride
-derision
-derivative
-derivation
-dermatologist
-acne
-derogatory
-descry
-desecrate
-violate
-desiccate
-desolate
-desolate
-desperado
-desperate
-despise
-despoil
-despondent
-despot
-destitute
-impoverish
-desultory
-detached
-detain
-determinate
-determination
-deterrent
-detonation
-detraction
-detrimental
-deviate
-devious
-devise
-devoid
-devolve
-deputize
-devotee
-devout
-religious
-dexterous
-diabolical
-diadem
-dialectical
-diaphanous
-diatribe
-dichotomy
-dictum
-didactic
-die
-diffidence
-diffuse
-digression
-dilapidated
-dilate
-dilatory
-dilemma
-dilettante
-diligence
-dilute
-diminution
-din
-weary
-dinghy
-maroon
-dingy
-dull
-dint
-diorama
-dire
-dirge
-disabuse
-disaffected
-disapprobation
-disarray
-disavowal
-disband
-disburse
-discernible
-discerning
-disclaim
-disclose
-discombobulated
-discompose
-discomfit
-disconcert
-disconsolate
-discord
-discordant
-discount
-discourse
-discredit
-discrepancy
-discrete
-discretion
-discriminating
-discriminate
-brisk
-discursive
-disdain
-disembark
-disenfranchise
-disengage
-disfigure
-disgorge
-disgruntle
-dishearten
-disheveled
-disinclination
-disingenuous
-disinter
-disinterested
-disjointed
-disjunction
-dislodge
-dismantle
-mantle
-crust
-dismember
-dismiss
-disparage
-maneuver
-disparate
-disparity
-dispassionate
-dispatch
-dispel
-dispense
-disperse
-dispirited
-disport
-disputatious
-disquietude
-disquisition
-dissection
-dissemble
-disseminate
-dissent
-dissertation
-dissident
-dissimulate
-dissipate
-dissolution
-reduce
-dissuade
-dissonance
-distant
-distend
-distill
-distinction
-distinct
-distinctive
-distort
-distrait
-distraught
-distract
-diurnal
-diva
-diverge
-diverse
-diversion
-divest
-divine
-dowse
-divulge
-docile
-ferocious
-docket
-doctrinaire
-doctrine
-indoctrinate
-document
-doddering
-merit
-doff
-dogged
-persevere
-doggerel
-dogmatic
-doldrums
-blues
-dolorous
-dolt
-domicile
-domineer
-dominate
-dominant
-don
-outfit
-dormant
-dormer
-dorsal
-dossier
-dotage
-dote
-dour
-sullen
-brood
-douse
-dowdy
-downcast
-drab
-draconian
-dregs
-drivel
-nonsense
-dribble
-drip
-trickle
-droll
-queer
-drone
-drone
-murmur
-dross
-drudgery
-drudge
-dubious
-ductile
-dulcet
-dumbfound
-dupe
-duplicity
-duration
-duress
-dutiful
-dwindle
-dynamic
-dynamo
-dyspeptic
-dys
-dyslexia
-dysentery
-earthy
-earthly
-ebb
-ebullient
-eccentric
-eccentricity
-ecclesiastic
-chapel
-chaplain
-padre
-eclectic
-selective
-eclipse
-ecliptic
-ecologist
-ecosystem
-economy
-ecstasy
-rapture
-eddy
-edict
-sovereign
-sovereignty
-edify
-edifice
-eerie
-efface
-effectual
-effective
-effectuate
-effeminate
-emasculate
-castrate
-effervescence
-effete
-efficacy
-effigy
-dummy
-effluvium
-effrontery
-effulgent
-effusion
-gush
-egoism
-ego
-egotistical
-egotism
-egregious
-egress
-ejaculation
-elaboration
-elaborate
-elated
-elegy
-elicit
-elixir
-ellipsis
-elliptical
-eloquence
-elucidate
-elusive
-elysian
-Elysium
-emaciated
-emanate
-emancipate
-embargo
-embark
-embed
-embellish
-embezzlement
-emblazon
-embody
-emboss
-embrace
-encircle
-embroider
-embroil
-embryonic
-emend
-emetic
-eminent
-emissary
-emollient
-emolument
-empathy
-compassion
-empirical
-emulate
-enamored
-encipher
-enclave
-encomiastic
-encompass
-encroachment
-encumber
-endearment
-endear
-endemic
-endorse
-endue
-enduring
-energize
-enervate
-enfranchise
-engage
-engaging
-engaged
-engender
-engross
-enhance
-enigma
-puzzle
-enjoin
-enmity
-ennui
-enormity
-enrapture
-ensconce
-ensue
-entail
-enterprising
-enterprise
-enthrall
-entice
-mischief
-entity
-entomology
-entrance
-trance
-hypnosis
-entreat
-entree
-entrepreneur
-enumerate
-enunciate
-environ
-eon
-epaulet
-fringe
-ephemeral
-fleet
-epic
-epicure
-Epicurean
-epigram
-epilogue
-episodic
-epistemologist
-epitaph
-epithet
-epitome
-epoch
-equable
-equanimity
-equestrian
-equilibrium
-equine
-equinox
-equipoise
-equitable
-equity
-equivocal
-equivocate
-erode
-erotic
-errant
-erratic
-erroneous
-erudite
-scholarly
-escapade
-prank
-flighty
-eschew
-esoteric
-espionage
-espouse
-esteem
-estimable
-inestimable
-estranged
-ethereal
-airy
-ethnic
-ethnology
-ethos
-etymology
-eugenic
-eulogistic
-eulogy
-euphemism
-euphony
-euphoria
-euthanasia
-evanescent
-evasive
-evince
-evenhanded
-evocative
-evoke
-ewe
-ram
-exacerbate
-embitter
-exacting
-exact
-exalt
-exasperate
-exceptionable
-except
-excerpt
-exchequer
-chancellor
-treasure
-excise
-exclaim
-excoriate
-exculpate
-execrable
-execrate
-execute
-executor
-executioner
-executive
-legislature
-judiciary
-exegesis
-exemplary
-exemplify
-exempt
-exertion
-exhale
-exhilarating
-exhort
-urge
-urgent
-exhume
-coroner
-exigency
-exiguous
-existential
-exodus
-exonerate
-exorbitant
-exorcise
-exotic
-intrigue
-expansive
-outgoing
-expatiate
-expatriate
-expedient
-expedite
-expeditious
-expenditure
-expertise
-expiate
-expletive
-interjection
-swear
-swear
-oath
-explicate
-explicit
-exploit
-exploit
-expository
-expostulation
-exposure
-expound
-expropriate
-expunge
-expurgate
-extant
-extemporaneous
-extenuate
-extirpate
-extol
-extort
-wring
-extradition
-extraneous
-extrapolation
-extricate
-inextricable
-extrinsic
-extrovert
-mingle
-extrude
-exuberance
-glow
-exude
-ooze
-exult
-fabricate
-facade
-facet
-facetious
-facile
-facilitate
-facsimile
-faction
-dissension
-factious
-factitious
-factotum
-faculty
-fallacious
-fallible
-falsify
-fallow
-sow
-falter
-stumble
-fanaticism
-fancied
-fancier
-fanciful
-fancy
-fanfare
-farce
-fastidious
-squeamish
-fatalism
-fathom
-fathomless
-fatuous
-fauna
-fawning
-court
-faze
-feasible
-febrile
-fecundity
-fertile
-fruitful
-feign
-feint
-shift
-felicitous
-felicity
-feline
-fell
-fell
-felon
-feral
-ferment
-fermentation
-ferret
-fervent
-fervid
-impassioned
-fervor
-fester
-festive
-fete
-fetid
-foul
-fetish
-fetter
-fiasco
-fiat
-fickle
-fictitious
-fidelity
-figment
-figurative
-figure
-figurine
-filch
-pilfer
-filial
-filibuster
-freebooter
-bust
-filigree
-lace
-filing
-finale
-finesse
-finicky
-fussy
-fuss
-finite
-firebrand
-hothead
-fissure
-fitful
-fit
-flaccid
-limp
-flag
-droop
-flagrant
-outrage
-flail
-thresh
-toss
-flair
-flamboyant
-flaunt
-flay
-fleck
-fledgling
-fleece
-shear
-trickster
-flick
-flicker
-flutter
-flinch
-flippant
-flip
-flit
-floe
-flora
-florescence
-florid
-flush
-blush
-tinge
-tint
-flowery
-flotsam
-jetsam
-flounder
-thrash
-flourish
-flout
-curb
-fluctuate
-fluency
-fluke
-fluster
-fluted
-groove
-stammer
-flux
-fodder
-foible
-foil
-foil
-foist
-palm
-pass
-foliage
-foment
-foolhardy
-foppish
-foray
-forbearance
-ford
-forebears
-foreboding
-forensic
-forum
-foreshadow
-prefigure
-forerunner
-foresight
-forestall
-nuptial
-forfeit
-forge
-forgo
-forlorn
-formality
-formidable
-menace
-forsake
-forswear
-forte
-forthright
-forthcoming
-fortitude
-fortuitous
-foster
-founder
-founder
-fracas
-fractious
-frail
-franchise
-frantic
-fraudulent
-fraught
-fray
-frenetic
-frenzied
-fresco
-paste
-pastry
-plaster
-fret
-friction
-frieze
-frigid
-fritter
-frivolous
-self
-carefree
-frolicsome
-frolic
-frond
-litter
-fructify
-frugality
-fruition
-frustrate
-fugitive
-fulcrum
-fulminate
-fulsome
-fumble
-functionary
-functional
-fundamental
-funereal
-furor
-furtive
-sneak
-underhand
-sly
-fusillade
-fusion
-futile
-gadfly
-gaffe
-gainsay
-gait
-galaxy
-gale
-gall
-gall
-galleon
-galley
-clipper
-pinnace
-clip
-galvanize
-galvanic
-gambit
-ploy
-gambol
-romp
-zest
-gamely
-gamut
-gape
-garbled
-jumble
-gargantuan
-gargoyle
-garish
-trim
-garner
-garnish
-garrulous
-gastronomy
-gauche
-gaudy
-flashy
-gild
-gaunt
-gavel
-bid
-gawk
-gazette
-genealogy
-generality
-generate
-generic
-genus
-genesis
-geniality
-genre
-genteel
-gentility
-breed
-crossbreed
-well
-gentry
-gentle
-genuflect
-germane
-germinal
-germ
-germinate
-sprout
-shoot
-gerontocracy
-gerontology
-geriatrics
-gerrymander
-gestate
-natal
-gesticulation
-ghastly
-gibberish
-gibe
-giddy
-gingerly
-girth
-gist
-glacial
-glaring
-glare
-glaze
-glean
-glib
-slick
-sleek
-glimmer
-glitter
-glamor
-gloat
-gloss
-gloss
-glossary
-glossy
-mat
-finish
-finished
-glower
-scowl
-glut
-glutinous
-glutton
-gnarled
-gnarl
-gnome
-goad
-gorge
-gorge
-gory
-shudder
-gossamer
-sheer
-gouge
-gouge
-gourmand
-gourmet
-graduated
-graduate
-granary
-grandeur
-stately
-grandiloquent
-grandiose
-high
-matin
-granulate
-graphic
-vivid
-graphite
-grapple
-grate
-gratify
-gratis
-gratuitous
-gratuity
-gravity
-gregarious
-grievance
-grill
-broil
-grim
-grimace
-grisly
-groom
-grotesque
-hideous
-grotto
-grouse
-grumble
-mutter
-rumble
-grovel
-grudging
-gruel
-porridge
-oatmeal
-grueling
-gruesome
-gruff
-grunt
-guffaw
-guile
-cunning
-guileless
-guise
-gull
-gullible
-gustatory
-gusto
-gusty
-gust
-guy
-topple
-overthrow
-overturn
-capsize
-gyroscope
-habituate
-hackles
-growl
-hackneyed
-haggard
-haggle
-halcyon
-hale
-hail
-hallowed
-hallucination
-halting
-waver
-hamper
-hap
-haphazard
-hapless
-harangue
-harass
-harbinger
-harbor
-habitat
-hardy
-harping
-harrowing
-harry
-hatch
-latch
-notch
-haughtiness
-haunt
-haven
-havoc
-hazardous
-hazard
-hazy
-headlong
-headfirst
-headstrong
-heckler
-hedonist
-heedless
-heed
-hegemony
-heinous
-gross
-helm
-herbivorous
-heresy
-hermetic
-hermetic
-sterile
-hermitage
-herpetologist
-heterodox
-heterogeneous
-hew
-heyday
-prime
-primary
-primal
-primate
-hiatus
-hibernal
-hibernate
-hierarchy
-totem
-hieroglyphic
-hilarity
-hindmost
-wage
-hindrance
-hinterlands
-hireling
-hirsute
-histrionic
-historic
-historical
-hoard
-hoary
-hoax
-holocaust
-holster
-homage
-homeostasis
-homespun
-spin
-homily
-homogeneous
-hone
-hoodwink
-horde
-swarm
-hortatory
-horticultural
-hostility
-hovel
-hut
-shack
-shed
-hover
-hubbub
-hubris
-hue
-hue
-humane
-humanitarian
-humdrum
-humid
-humility
-humble
-hummock
-humus
-hurtle
-husband
-husbandry
-hybrid
-mongrel
-pedigree
-hydrophobia
-rabies
-hygiene
-hyperbole
-hypercritical
-hypochondriac
-hypocritical
-hypothetical
-ichthyology
-icon
-iconoclastic
-ideology
-idiom
-idiosyncrasy
-idolatry
-idyllic
-idyll
-igneous
-ignite
-ignoble
-ignominy
-illicit
-illimitable
-illuminate
-illusion
-illusive
-illusory
-imbalance
-disproportion
-imbecility
-imbibe
-imbroglio
-imbue
-immaculate
-tenant
-tenancy
-imminent
-immobility
-immolate
-immune
-immure
-immutable
-impair
-impale
-impalpable
-impartial
-impart
-impassable
-impasse
-impassive
-impeach
-impeccable
-credential
-impecunious
-impede
-retard
-impediment
-impel
-impending
-impenetrable
-impenitent
-imperative
-imperceptible
-imperial
-imperil
-imperious
-impermeable
-impertinent
-imperturbable
-collected
-impervious
-impetuous
-impetus
-impiety
-impinge
-impious
-implacable
-implausible
-implement
-implicate
-implication
-implicit
-implode
-implore
-imply
-impolitic
-imponderable
-import
-significant
-importunate
-importune
-imposture
-masquerade
-impotent
-crave
-imprecation
-impregnable
-impregnate
-impromptu
-impropriety
-improvident
-improvise
-imprudent
-impudence
-impugn
-impuissance
-impunity
-impute
-inadvertently
-oversee
-inalienable
-inane
-inanimate
-inarticulate
-speechless
-inaugurate
-incandescent
-incantation
-chant
-charm
-bewitch
-recite
-recital
-incapacitate
-incarcerate
-incarnate
-incarnation
-personify
-incendiary
-incense
-incentive
-inception
-incessant
-inchoate
-incidence
-incidental
-incident
-incinerate
-incipient
-incisive
-incite
-inclement
-incline
-inclined
-tend
-inclusive
-incognito
-incoherent
-incommodious
-incompatible
-incongruity
-attire
-inconsequential
-inconsistency
-incontinent
-incontrovertible
-incorporate
-incorporeal
-incorrigible
-incredulity
-incredulous
-increment
-incriminate
-incrustation
-incubate
-inasmuch
-incubus
-inculcate
-incumbent
-incur
-incursion
-inroad
-indefatigable
-indelible
-indemnify
-indentation
-indenture
-indeterminate
-indicative
-indices
-indict
-indifferent
-indigence
-indigenous
-indigent
-indignation
-righteous
-rightful
-indignity
-indiscriminate
-indisputable
-indissoluble
-indite
-indolent
-indomitable
-indubitable
-induce
-inductive
-induct
-indulgent
-indulge
-humor
-industrious
-inebriated
-inebriate
-intoxicate
-ineffable
-ineffectual
-ineluctable
-inept
-inequity
-inerrancy
-inert
-inevitable
-inexorable
-infallible
-infamous
-infantile
-infer
-infernal
-infidel
-infiltrate
-penetrate
-infinitesimal
-infirmity
-inflated
-influx
-infraction
-infringe
-ingenious
-resourceful
-ingenuous
-ingenue
-ingrained
-ingrate
-ingratiate
-inherent
-inhibit
-inhibited
-uninhibited
-inimical
-inimitable
-iniquitous
-initiate
-injurious
-inkling
-innate
-innocuous
-innovation
-innuendo
-inopportune
-inordinate
-inquisitor
-inquisitive
-insalubrious
-healthful
-healthy
-wholesome
-insatiable
-inscrutable
-insensate
-insensible
-insidious
-insightful
-insinuate
-creep
-artful
-insipid
-insolence
-insolvent
-insomnia
-insouciant
-instigate
-insubordination
-insubstantial
-insularity
-insuperable
-odds
-insurgent
-insurmountable
-insurrection
-intangible
-integral
-integrate
-integrity
-upright
-intellect
-intelligentsia
-inter
-cemetery
-interdict
-interim
-interloper
-interminable
-intermittent
-internecine
-interpolate
-interregnum
-interrogate
-intervene
-intimate
-intimidate
-intractable
-intransigence
-intrepid
-intrinsic
-introspective
-introvert
-intrude
-intuition
-inundate
-overwhelm
-submerge
-engulf
-inured
-invalidate
-invalid
-invective
-inveigh
-inveigle
-inverse
-invert
-inveterate
-invidious
-invincible
-inviolable
-invocation
-invoke
-invulnerable
-iota
-irascible
-irate
-iridescent
-irksome
-ironic
-irony
-irreconcilable
-irrefutable
-irrelevant
-irremediable
-irreparable
-irrepressible
-irreproachable
-irresolute
-indecisive
-indecision
-irretrievable
-irreverence
-irrevocable
-isotope
-isthmus
-itinerant
-itinerary
-jabber
-jab
-jaded
-jargon
-jaundiced
-jaundice
-jaunt
-jaunty
-jeopardize
-jettison
-jibe
-jingoist
-jocose
-jocular
-jest
-jocund
-jollity
-jostle
-shove
-bump
-jovial
-jubilation
-judicious
-juggernaut
-jug
-juncture
-junket
-junta
-jurisprudence
-jurisdiction
-juridical
-juxtapose
-kaleidoscope
-ken
-kernel
-killjoy
-grouch
-spoilsport
-kindle
-kindred
-kinetic
-kismet
-kleptomaniac
-knave
-knead
-knell
-toll
-curfew
-knit
-crochet
-knoll
-knotty
-kudos
-entourage
-labile
-laborious
-labyrinth
-laceration
-rip
-rag
-lachrymose
-lackadaisical
-halfhearted
-lackluster
-laconic
-laggard
-lag
-straggle
-lagoon
-laity
-layman
-lament
-lampoon
-lancet
-lance
-languid
-languish
-languor
-lank
-lap
-larceny
-larder
-largess
-lascivious
-lust
-lassitude
-latent
-lateral
-latitude
-laud
-lavish
-lax
-leaven
-enliven
-lechery
-lectern
-leery
-leeway
-margin
-marginal
-legacy
-legend
-legerdemain
-leniency
-permissive
-leonine
-lethal
-lethargic
-levee
-levitate
-levity
-levy
-lewd
-lexicographer
-lexicon
-liability
-liaison
-libel
-libertine
-rou
-libidinous
-libido
-libretto
-licentious
-license
-lien
-ligneous
-lilliputian
-limber
-limbo
-abode
-abide
-limn
-limpid
-lineage
-lineaments
-feature
-linger
-persist
-linguistic
-lionize
-liquidate
-list
-listless
-litany
-lithe
-willowy
-litigation
-litotes
-understate
-livid
-loath
-loathe
-lode
-lofty
-loft
-log
-loiter
-loll
-lounge
-longevity
-loom
-gallows
-noose
-lope
-loquacious
-lout
-low
-lubricate
-lucid
-lucrative
-lucre
-filth
-ludicrous
-lugubrious
-lull
-lumber
-lumen
-luminary
-dignitary
-luminous
-lunar
-lunatic
-lurid
-lurk
-slink
-luscious
-luster
-lustrous
-luxuriant
-macabre
-morgue
-cremate
-mace
-macerate
-Machiavellian
-machinations
-maculated
-madrigal
-maelstrom
-magisterial
-magistrate
-magnanimity
-magnate
-magniloquent
-magnitude
-maim
-mangle
-maladroit
-malady
-malaise
-malapropism
-malapropos
-malcontent
-malediction
-malefactor
-maleficient
-malevolent
-malfeasance
-malicious
-malign
-malignant
-malingerer
-malleable
-malodorous
-compost
-mammal
-vertebrate
-suckle
-nurse
-mammoth
-manacle
-mandate
-mandatory
-mangy
-mange
-maniacal
-manifest
-manifestation
-pronounced
-manifesto
-manifold
-manipulate
-mannered
-mannerism
-manumit
-marital
-maritime
-marked
-marred
-marshal
-enlist
-marsupial
-martial
-cadet
-martinet
-martyr
-masochist
-masticate
-materialism
-maternal
-matriarch
-matriculate
-matrix
-maudlin
-sentimental
-maul
-mausoleum
-mauve
-maverick
-mawkish
-maxim
-mayhem
-meager
-mealymouthed
-meander
-meddlesome
-mediate
-intermediary
-mediocre
-meditation
-medium
-medley
-meek
-suitor
-megalomania
-melancholy
-blue
-melee
-mellifluous
-memento
-memorialize
-memorial
-menagerie
-mendacious
-mendicant
-alms
-menial
-mentor
-mercantile
-mercenary
-mercurial
-quicksilver
-meretricious
-vulgar
-merger
-mesmerize
-metallurgical
-metamorphosis
-metaphor
-soar
-metaphysical
-mete
-meteoric
-methodical
-meticulous
-metropolis
-mettle
-miasma
-swamp
-microcosm
-miniature
-migrant
-migratory
-milieu
-militant
-militate
-militia
-millennium
-mimicry
-mime
-minatory
-mincing
-dainty
-exquisite
-choice
-minion
-minuscule
-minute
-minutiae
-mirage
-mire
-mirth
-misadventure
-misanthrope
-vile
-misapprehension
-miscellany
-miscellaneous
-mischance
-misconstrue
-miscreant
-wretch
-misdemeanor
-misconduct
-miserly
-misgivings
-mishap
-misnomer
-misogamy
-misogynist
-missile
-missive
-mite
-mitigate
-mnemonic
-mobile
-mock
-mode
-modicum
-modish
-modulate
-mogul
-molecule
-mollify
-mollycoddle
-molt
-molten
-momentous
-momentum
-monarchy
-monastic
-monetary
-monochromatic
-monochrome
-monogram
-monograph
-monolithic
-monotheism
-monotony
-monumental
-moodiness
-moratorium
-morbid
-mordant
-mores
-moribund
-morose
-mortician
-undertaker
-mortify
-mosaic
-mote
-speck
-motif
-motility
-motley
-motto
-mottled
-blotch
-blemish
-mountebank
-peddle
-muddle
-muggy
-mulct
-multifarious
-multiform
-multilingual
-multiplicity
-mundane
-munificent
-mural
-murky
-muse
-musky
-muster
-musty
-mutablility
-muted
-mute
-mutilate
-mutinous
-myopic
-myriad
-nadir
-naivet
-narcissist
-narrative
-nascent
-natation
-natty
-smart
-nauseate
-nausea
-nauseous
-nautical
-navigable
-nebulous
-nebula
-necromancy
-nefarious
-negate
-negligence
-negligible
-nemesis
-neologism
-neophyte
-nepotism
-favoritism
-nether
-nettle
-nexus
-nib
-nicety
-niggardly
-niggle
-nihilist
-nip
-snip
-pinch
-nirvana
-impersonal
-nocturnal
-noisome
-nomadic
-nomenclature
-nominal
-nonchalance
-noncommittal
-nondescript
-nonentity
-nonplus
-nostalgia
-nostrum
-notable
-notoriety
-nova
-novelty
-novice
-noxious
-nuance
-shade
-gradation
-nubile
-nugatory
-nullify
-numismatist
-nuptial
-nurture
-nutrient
-nutrition
-nutritious
-nourish
-nourishment
-oaf
-obdurate
-obeisance
-obelisk
-obese
-obfuscate
-obituary
-objective
-obligatory
-oblique
-obliterate
-oblivion
-oblivious
-obloquy
-obnoxious
-obscure
-obsequious
-slavish
-obsequy
-obsessive
-obsidian
-scion
-obsolete
-obstetrician
-obstinate
-obstreperous
-obtrude
-obtuse
-obviate
-Occident
-occlude
-occult
-oculist
-odious
-odium
-odoriferous
-odorous
-odyssey
-offensive
-offhand
-officious
-pushy
-ogle
-olfactory
-oligarchy
-ominous
-threat
-omnipotent
-omnipresent
-omniscient
-omnivorous
-onerous
-onomatopoeia
-rustle
-onslaught
-slaughter
-onus
-spare
-opalescent
-opaque
-opiate
-opportune
-opportunist
-opprobrium
-optician
-optimist
-optimum
-optional
-optometrist
-opulence
-opus
-oracular
-orator
-oratorio
-ordain
-ordeal
-ordinance
-ordination
-orgy
-orient
-orientation
-orifice
-ornate
-ornithologist
-orthodox
-orthography
-oscillate
-osseous
-ossify
-ostensible
-apparent
-ostentatious
-ostracize
-blackball
-oust
-outlandish
-outmoded
-outskirts
-outspoken
-blunt
-outstrip
-outwit
-ovation
-overbearing
-overt
-overweening
-overwrought
-hysteria
-ovoid
-pachyderm
-pacifist
-pacify
-paean
-painstaking
-palatable
-palate
-palatial
-paleontology
-palette
-palimpsest
-parchment
-pall
-pallet
-palliate
-pallid
-palpable
-palpitate
-throb
-paltry
-pan
-panacea
-panache
-pandemic
-pandemonium
-pander
-cater
-panegyric
-panoramic
-pantomime
-papyrus
-parable
-paradigm
-paradox
-paragon
-parallelism
-parallel
-parameter
-paramount
-paramour
-inamorata
-paranoia
-paraphernalia
-dowry
-paraphrase
-parasite
-infest
-parched
-pariah
-outcast
-parity
-parlance
-parley
-parochial
-parish
-outlook
-parody
-spoof
-takeoff
-paroxysm
-parquet
-parry
-ward
-parsimony
-partial
-partiality
-partisan
-parvenu
-partition
-pass
-passive
-pastiche
-pastoral
-patent
-pathetic
-touching
-pathological
-pathos
-patina
-varnish
-patois
-patriarch
-patrician
-patronize
-paucity
-pauper
-peccadillo
-swipe
-pecuniary
-pedagogue
-pedagogy
-pedant
-pedantic
-bookish
-studious
-pedestrian
-precinct
-pedigree
-pediatrician
-peerless
-peer
-pejorative
-pell
-pellucid
-penance
-penchant
-pendant
-pending
-pendulous
-suspend
-suspense
-penitent
-pensive
-penumbra
-penury
-peon
-perceptive
-percussion
-perdition
-damn
-doom
-peregrination
-peremptory
-perennial
-perfidious
-perforate
-perfunctory
-perigee
-perimeter
-bound
-peripatetic
-peripheral
-periphery
-perjury
-permeable
-pernicious
-peroration
-perpetrate
-perpetual
-perpetuate
-perquisite
-personable
-perspicacious
-perspicuity
-perspicuous
-pert
-forward
-pertinacious
-pertinent
-perturb
-peruse
-pervasive
-perverse
-perversion
-pervert
-wrongheaded
-pessimism
-pestilential
-pestle
-mortar
-mash
-petrify
-petty
-petulant
-phalanx
-pharisaical
-pharisee
-self
-phenomena
-philanderer
-philanthropist
-philatelist
-philistine
-philology
-phlegmatic
-phobia
-phoenix
-phylum
-physiognomy
-physiological
-piebald
-piecemeal
-pied
-piety
-pigment
-pillage
-pillory
-pine
-pinion
-pinnacle
-pious
-piquant
-tart
-sour
-pique
-piscatorial
-pitfall
-beware
-pith
-marrow
-pithy
-pittance
-pivotal
-placate
-placebo
-tablet
-placid
-plagiarize
-plaintive
-plait
-plasticity
-platitude
-commonplace
-commonwealth
-platonic
-plaudit
-plausible
-plebeian
-plebiscite
-referendum
-plenary
-plenitude
-plethora
-pliable
-pliant
-plight
-pluck
-plumage
-plume
-plumb
-plumber
-plummet
-plutocracy
-podiatrist
-podium
-pedestal
-poignancy
-polarize
-polarity
-polar
-camp
-polemic
-polemical
-politic
-polity
-polygamist
-polyglot
-pomposity
-ponderous
-pontifical
-pore
-porous
-interstice
-portend
-soothsayer
-portly
-stout
-poseur
-pose
-posterity
-posthumous
-postmortem
-postulate
-posture
-potable
-potent
-potentate
-potential
-potion
-potpourri
-poultice
-practicable
-practical
-pragmatic
-pragmatist
-prance
-prate
-prattle
-idle
-preamble
-precarious
-precedent
-precedent
-precept
-precipice
-brink
-precipitant
-precipitate
-precipitous
-pr
-precise
-preclude
-precocious
-precursor
-predator
-predecessor
-predetermine
-predicament
-predilection
-predispose
-preeminent
-preempt
-preen
-prefatory
-prehensile
-prelate
-prelude
-premeditate
-premise
-premonition
-premonitory
-preponderance
-preposterous
-prerogative
-presage
-prescience
-presentiment
-prestige
-presumptuous
-presume
-pretentious
-pretend
-pretension
-preternatural
-pretext
-prevail
-prevalent
-prevaricate
-prey
-prim
-primogeniture
-primordial
-primp
-pristine
-privation
-privy
-probe
-probity
-defalcate
-problematic
-proclivity
-procrastinate
-procurement
-prod
-prodigal
-prodigious
-prodigy
-profane
-profligate
-profound
-profusion
-progenitor
-progeny
-prognosis
-prognosticate
-prohibitive
-projectile
-proletarian
-proliferate
-prolific
-prolixity
-prologue
-feud
-prolong
-prominent
-promiscuous
-promontory
-promote
-prompt
-cue
-promulgate
-prone
-propagate
-propellant
-propensity
-prophetic
-prophylactic
-propinquity
-propitiate
-propitious
-horoscope
-proponent
-propound
-propriety
-usage
-propulsive
-prosaic
-proscenium
-proscribe
-outlaw
-proselytize
-prosody
-metrical
-meter
-prosperity
-prosper
-prosperous
-prostrate
-protean
-prot
-protocol
-prototype
-protract
-protrude
-protuberance
-bulge
-provenance
-provender
-provident
-providence
-provincial
-provisional
-proviso
-provision
-provocative
-prowess
-proximity
-proxy
-prude
-prudent
-prune
-prurient
-pry
-prize
-pseudonym
-psyche
-psychiatrist
-psychic
-psychopathic
-psychosis
-psychosomatic
-pterodactyl
-puerile
-pugilist
-pugnacity
-puissant
-pulchritude
-pulmonary
-pulsate
-pulse
-pulverize
-pummel
-punctilious
-pundit
-pungent
-punitive
-puny
-purchase
-purgatory
-purge
-purport
-purported
-rooster
-rabble
-purse
-pucker
-purveyor
-pusillanimous
-putative
-putrid
-putrefy
-putrescent
-gangrene
-pyromaniac
-quack
-quadruped
-quaff
-quagmire
-bog
-quail
-quaint
-qualified
-qualms
-quandary
-quarantine
-quarry
-quarry
-bank
-quash
-squash
-quay
-queasy
-quell
-quench
-squelch
-querulous
-whine
-query
-queue
-quibble
-quiescent
-quietude
-quintessence
-quip
-taunt
-quirk
-quisling
-quiver
-quiver
-leash
-quixotic
-quizzical
-quorum
-quotidian
-rabid
-raconteur
-ragamuffin
-tatter
-rail
-raiment
-rakish
-rake
-rake
-rally
-ramble
-ramification
-ramify
-ramp
-rampant
-rampart
-ramshackle
-rickety
-ransack
-rancid
-rank
-rancor
-random
-lot
-draw
-lottery
-raffle
-rankle
-rant
-rapacious
-rapport
-rapt
-rarefied
-rare
-raspy
-rasp
-ratify
-ratiocination
-rationale
-rationalize
-rational
-ration
-raucous
-ravage
-maraud
-rave
-ravel
-ravenous
-ravine
-raze
-reactionary
-reinstate
-realm
-reaper
-rebate
-rebuff
-snub
-rebuke
-rebus
-rebuttal
-recalcitrant
-recant
-recapitulate
-recast
-fashion
-receptive
-recession
-recess
-recidivism
-recipient
-reciprocal
-reciprocate
-recluse
-reconcile
-recondite
-reconnaissance
-recount
-recourse
-resort
-makeshift
-recreant
-recrimination
-rectify
-rectitude
-recumbent
-recline
-recuperate
-recurrent
-redolent
-redoubtable
-redress
-redundant
-reek
-stench
-stink
-refectory
-refraction
-refractory
-refrain
-chorus
-refulgent
-gleam
-refurbish
-refute
-regal
-regale
-regatta
-regeneration
-penology
-regicide
-regime
-regimen
-regiment
-rehabilitate
-reimburse
-reiterate
-rejoinder
-comeback
-rejuvenate
-relegate
-relent
-relevant
-relic
-relinquish
-relish
-remediable
-reminiscence
-reminiscent
-remiss
-remission
-remit
-remittance
-remnant
-remonstrate
-remorse
-remunerative
-rend
-render
-rendezvous
-rendition
-renegade
-renege
-renounce
-renovate
-renown
-herald
-rent
-reparable
-reparation
-repartee
-repast
-repeal
-repel
-repellent
-repercussion
-repertoire
-repine
-replenish
-replete
-memoir
-brim
-replica
-replicate
-repository
-repose
-reprehensible
-repress
-reprieve
-reprimand
-reprisal
-reprise
-reproach
-reprobate
-reprobation
-reprove
-repudiate
-repugnance
-repulsion
-repulse
-reputable
-reputed
-requiem
-mass
-requisite
-requisition
-requite
-rescind
-resentment
-reserve
-residue
-residual
-resignation
-resign
-resilient
-elastic
-resolution
-resolve
-resolve
-resonant
-resound
-respiration
-respite
-resplendent
-responsiveness
-restitution
-restive
-restraint
-resumption
-resurge
-resurrect
-resuscitate
-retain
-retaliate
-retentive
-reticent
-retinue
-retiring
-retort
-retract
-retrench
-retribution
-retrieve
-retroactive
-enact
-retrograde
-retrospective
-revelry
-reverberate
-reverent
-reverend
-reverie
-revert
-relapse
-backslide
-revile
-revoke
-revulsion
-rhapsodize
-rhapsody
-rhetoric
-ribald
-riddle
-rider
-rife
-rift
-rig
-rig
-rigid
-rigor
-rile
-riveting
-rivet
-rivulet
-robust
-rococo
-roil
-roseate
-roster
-rostrum
-pulpit
-rote
-rotunda
-rotundity
-rotund
-rousing
-rout
-stampede
-rubble
-mason
-rubric
-ruddy
-rudimentary
-rue
-ruffian
-ruminate
-ruminant
-rummage
-runic
-ruse
-rustic
-rusticate
-ruthless
-saboteur
-saccharine
-sacrilegious
-sacrosanct
-sadistic
-saga
-sagacious
-sage
-salacious
-salient
-saline
-sallow
-salubrious
-salutary
-salvage
-sanctimonious
-sanction
-sanctuary
-sanguinary
-sanguine
-sap
-sarcasm
-sardonic
-sartorial
-sate
-doze
-satellite
-satiate
-satire
-satirical
-saturate
-saturnine
-satyr
-saunter
-savant
-savor
-savory
-scabbard
-scad
-scaffold
-scale
-scanty
-scapegoat
-scavenge
-refuse
-scenario
-schematic
-scheme
-schism
-scintilla
-scintillate
-scoff
-scotch
-score
-stamp
-scourge
-scruple
-scrupulous
-scrutinize
-scuffle
-shuffle
-scurrilous
-scurry
-scurvy
-scuttle
-hull
-seamy
-base
-sear
-char
-scorch
-brand
-hide
-seasoned
-season
-seasonal
-seasonable
-secession
-seclusion
-secrete
-sect
-sectarian
-denomination
-secular
-sedate
-sedentary
-sedition
-sedulous
-seedy
-run
-seemly
-seep
-seethe
-seine
-seismic
-semblance
-seminal
-seminary
-senility
-feebleminded
-sensitization
-sensual
-voluptuous
-sensuous
-sententious
-sentient
-sentinel
-lookout
-septic
-sepulcher
-sequester
-sere
-serendipity
-serenity
-serpentine
-serrated
-servile
-servitude
-sever
-severity
-sextant
-shackle
-sham
-shambles
-shard
-shaving
-plane
-sheaf
-sheathe
-sherbet
-shimmer
-shirk
-shoddy
-shrew
-shrewd
-shun
-shunt
-sidetrack
-shyster
-sibling
-sibylline
-sidereal
-silt
-simian
-simile
-simper
-simplistic
-simulate
-sinecure
-sinewy
-singular
-sinister
-sinuous
-skeptic
-skiff
-skimp
-skinflint
-skirmish
-skittish
-frisk
-skulduggery
-skulk
-slacken
-slack
-slag
-slake
-slander
-slapdash
-sleazy
-sleeper
-sleight
-slew
-slight
-slipshod
-slither
-sloth
-slough
-slovenly
-sledge
-sleigh
-sluggard
-sluggish
-sluice
-slur
-slur
-smattering
-smelt
-smirk
-smolder
-snicker
-snivel
-snuffle
-sobriety
-sober
-sodden
-sojourn
-solace
-solder
-solecism
-solemnity
-solicit
-solicitous
-soliloquy
-solitude
-solstice
-soluble
-solvent
-solvent
-somatic
-somber
-somnambulist
-somnolent
-sonorous
-sonic
-sonnet
-sophist
-sophisticated
-sophistry
-sophomoric
-soporific
-sordid
-spangle
-sparse
-spartan
-spasmodic
-spat
-spate
-spatial
-spatula
-spawn
-specious
-spectral
-spectrum
-spendthrift
-sphinx
-splice
-spontaneity
-spoonerism
-transpose
-sporadic
-sportive
-spruce
-spry
-nimble
-spurious
-spurn
-squabble
-squalor
-squander
-squat
-staccato
-legato
-stagnant
-staid
-stalemate
-stalwart
-stamina
-stanch
-stanza
-static
-statute
-statutory
-steadfast
-stealth
-steep
-stellar
-stem
-stem
-stentorian
-stereotype
-stickler
-stifle
-smother
-suffocate
-stigma
-stilted
-stint
-stint
-stipend
-stipple
-stipulate
-stock
-stockade
-pen
-stodgy
-stoic
-stoke
-stolid
-stratagem
-stratified
-stratum
-strew
-striated
-stricture
-strident
-stringent
-strut
-strut
-studied
-stultify
-stupefy
-stupor
-stun
-daze
-stygian
-stymie
-stump
-suavity
-subaltern
-subdue
-subjective
-subjugate
-sublimate
-sublime
-subliminal
-submissive
-subordinate
-suborn
-subpoena
-subsequent
-subservient
-subside
-subsidiary
-subsidy
-subsistence
-substantial
-substantiate
-substantive
-subsume
-subterfuge
-subtlety
-subversive
-succor
-succulent
-succumb
-suffragist
-suffuse
-sully
-tarnish
-sultry
-summation
-sumptuous
-sunder
-sundry
-superannuated
-supercilious
-supererogatory
-superficial
-superfluous
-superimpose
-supernumerary
-supersede
-supine
-supplant
-supple
-suppliant
-supplicate
-supplicant
-supposition
-supposititious
-suppress
-surfeit
-surly
-cross
-surmise
-surmount
-surpass
-surreptitious
-surrogate
-surveillance
-susceptible
-sustain
-sustenance
-suture
-swarthy
-swathe
-swelter
-swerve
-swill
-swindler
-sybarite
-sycophant
-syllogism
-sylvan
-symbiosis
-symmetry
-lopsided
-synchronous
-synoptic
-synthesis
-synthetic
-tacit
-taciturn
-tactile
-tact
-tactful
-taint
-talisman
-talon
-tangential
-tangible
-tanner
-tan
-tantalize
-tantamount
-tantrum
-taper
-tarantula
-tarry
-taut
-tautological
-tawdry
-taxonomist
-tedium
-teetotalism
-temerity
-temper
-temperament
-temperate
-tempestuous
-tempo
-temporal
-temporize
-tenacious
-tenacity
-tendentious
-tender
-tenet
-tensile
-tension
-tentative
-tenuous
-tenure
-tepid
-termination
-terminology
-terminus
-terminal
-terrestrial
-terse
-tertiary
-tessellated
-testator
-testy
-tether
-thematic
-theocracy
-theoretical
-therapeutic
-thermal
-thespian
-drama
-thrall
-threadbare
-thrifty
-thrive
-throes
-throng
-throttle
-strangle
-thwart
-tightwad
-tiller
-timbre
-timidity
-timorous
-tipple
-tirade
-tardy
-titanic
-tithe
-titillate
-tickle
-title
-titter
-titular
-toady
-toga
-tome
-handsome
-tonsure
-topography
-torpedo
-torpor
-torque
-torrent
-torrid
-torso
-trunk
-tortuous
-totter
-touchstone
-touchy
-tout
-toxic
-tract
-tractable
-traduce
-trajectory
-elevation
-tranquillity
-transcendent
-transcendental
-transcribe
-transgression
-transient
-transition
-transitory
-translucent
-transmute
-transparent
-transpire
-transport
-trappings
-traumatic
-travail
-traverse
-travesty
-treatise
-trek
-tremor
-tremulous
-trenchant
-furrow
-trepidation
-tribulation
-tribunal
-tribune
-tribute
-trident
-prong
-trifling
-trifle
-trigger
-trilogy
-trinket
-trite
-trivia
-troth
-trough
-truculence
-truism
-truncate
-tryst
-tumid
-overblown
-tumult
-tundra
-rolling
-turbid
-turbulence
-tureen
-turgid
-turmoil
-turncoat
-turpitude
-tutelage
-tutelary
-tycoon
-typhoon
-tyranny
-tyro
-ubiquitous
-wade
-ulterior
-ultimate
-eventual
-ultimatum
-umbrage
-unaccountable
-unanimity
-unassailable
-unassuaged
-unassuming
-unbridled
-bridle
-uncanny
-knack
-unconscionable
-uncouth
-unction
-unctuous
-underlying
-undermine
-underscore
-undulating
-unearth
-unearthly
-weird
-unequivocal
-unerringly
-unexceptionable
-unfaltering
-unfeigned
-unfetter
-hostage
-unfledged
-unfrock
-disbar
-debar
-bar
-bastard
-ungainly
-unguent
-uniformity
-unilateral
-unimpeachable
-uninhibited
-unintimating
-unique
-unison
-choir
-universal
-unkempt
-unmitigated
-unobtrusive
-unprecedented
-unprepossessing
-prepossessing
-unravel
-unrequited
-unruly
-unsavory
-unscathed
-unseemly
-unsightly
-unsullied
-untenable
-untoward
-unwarranted
-unwieldy
-unwitting
-unwonted
-upbraid
-braid
-uproarious
-uproar
-upshot
-urbane
-urchin
-ursine
-usurp
-usury
-utopia
-Shangri
-uxorious
-vacillate
-vacuous
-vagabond
-tramp
-trample
-tread
-vagary
-vagrant
-vagrant
-vainglorious
-valedictory
-valediction
-leave
-valid
-sound
-validate
-valor
-vampire
-vanguard
-avantgarde
-vantage
-vapid
-vaporize
-variegated
-variegate
-vassal
-vaunted
-veer
-vegetate
-vehement
-velocity
-venal
-vendetta
-vendor
-veneer
-venerable
-venerate
-venial
-venison
-venom
-vent
-vent
-ventilate
-ventral
-ventriloquist
-venture
-brave
-venturesome
-venue
-veracious
-veracity
-verbalize
-verbatim
-verbiage
-verbose
-verdant
-lush
-verdigris
-verge
-verisimilar
-verisimilitude
-veritable
-verity
-vernacular
-vernal
-versatile
-vertex
-vertigo
-verve
-vestige
-veto
-vex
-viable
-viand
-vicarious
-vicar
-vicissitude
-victuals
-vie
-vigilant
-vigil
-vigilante
-vigor
-vignette
-vilify
-vindicate
-vindictive
-vintner
-viper
-virile
-virtual
-virtue
-virtuoso
-virulent
-virus
-visage
-visceral
-viscid
-viscous
-vise
-visionary
-vision
-vital
-vibrant
-vitiate
-vitreous
-vitriolic
-vituperative
-vivacious
-sprightly
-vivisection
-vixen
-vociferous
-vogue
-volatile
-volition
-voluble
-volley
-voluminous
-bulk
-voodoo
-voracious
-vortex
-vouchsafe
-vouch
-voyeur
-vulnerable
-vulpine
-craft
-vulture
-vying
-waffle
-waft
-waggish
-wag
-waif
-waive
-wake
-wallow
-wan
-wanderlust
-wane
-wangle
-wiggle
-fake
-wanton
-warble
-warp
-warranted
-warrant
-warranty
-warren
-wary
-wastrel
-wax
-waylay
-ambush
-wean
-weather
-welt
-welter
-welter
-wheedle
-whelp
-whet
-whiff
-whimsical
-whim
-whimsy
-whinny
-whit
-whittle
-pare
-whorl
-willful
-wilt
-wily
-wince
-start
-windfall
-winnow
-sift
-winsome
-wispy
-wisp
-wistful
-withdrawn
-remote
-wither
-shrivel
-withhold
-withstand
-witless
-witticism
-wizardry
-wizened
-woe
-woeful
-wont
-worldly
-wrangle
-herd
-wrath
-wreak
-wrench
-wrest
-writ
-writhe
-wry
-xenophobia
-yen
-yeoman
-yield
-yoke
-yokel
-yore
-zany
-zeal
-zealot
-zenith
-zephyr
+abase V.
+abash V.
+abate V.
+abbreviate V.
+abdicate V.
+abduction N.
+aberrant N.
+abet V.
+abeyance N.
+abhor V.
+abject ADJ.
+abjure V.
+ablution N.
+abnegation N.
+abolish V.
+abominable ADJ.
+aboriginal ADJ. N.
+abortive ADJ.
+abrade V.
+abrasive ADJ.
+abridge V.
+abrogate ADJ.
+abscond V.
+absolute ADJ.
+absolve V.
+absorb V.
+abstain V.
+abstemious ADJ.
+abstinence N.
+abstract ADJ.
+abstruse ADJ.
+abundant ADJ.
+abusive ADJ.
+abut V.
+abysmal ADJ.
+abyss N.
+academic ADJ.
+accede V.
+accelerate V.
+accentuate V.
+accessible ADJ.
+accessory N.
+acclaim V.
+acclimate V.
+acclivity N.
+accolade N.
+accommodate V.
+accomplice N.
+accord N.
+accost V.
+accoutre V.
+accretion N.
+accrue V.
+acerbity N.
+acetic ADJ.
+acidulous ADJ.
+acknowledge V.
+acme N.
+acoustics N.
+acquiesce V.
+acquire V.
+acquittal N.
+acrid ADJ.
+acrimonious ADJ.
+acrophobia N.
+actuarial ADJ.
+actuate V.
+acuity N.
+acumen N.
+acute ADJ.
+adage N.
+adamant ADJ.
+adapt V.
+addendum N.
+addiction N.
+addle V.
+address V.
+adept ADJ.
+adhere V.
+adherent N.
+adjacent ADJ.
+adjunct N.
+admonish V.
+admonition N.
+adorn V.
+adroit ADJ.
+adulation N.
+adulterate V.
+advent N.
+adversary N.
+adverse ADJ.
+adversity N.
+advocacy N.
+advocate V.
+aerie N.
+aesthetic ADJ.
+affable ADJ.
+affected ADJ.
+affidavit N.
+affiliation N.
+affinity N.
+affirmation N.
+affix V.
+affliction N.
+affluence N.
+affront N.
+aftermath N.
+agenda N.
+agent N.
+agglomeration N.
+aggrandize V.
+aggregate V.
+aggressor N.
+aghast ADJ.
+agility N.
+agitate V.
+agnostic N.
+agrarian ADJ.
+alacrity N.
+alchemy N.
+alcove N.
+alias N.
+alienate V.
+alimentary ADJ.
+alimony N.
+allay V.
+allege V.
+allegiance N.
+allegory N.
+alleviate V.
+alliteration N.
+allocate V.
+alloy N.
+alloy V.
+allude V.
+allure V.
+allusion N.
+aloof ADJ.
+altercation N.
+altruistic ADJ.
+amalgamate V.
+amass V.
+ambidextrous ADJ.
+ambience N.
+ambiguous ADJ.
+ambivalence N.
+amble N.
+ambulatory ADJ.
+ameliorate V.
+amenable ADJ.
+amend V.
+amenities N.
+amiable ADJ.
+amicable ADJ.
+amiss ADJ.
+amity N.
+amnesia N.
+amnesty N.
+amoral ADJ.
+amorous ADJ.
+amorphous ADJ.
+amphibian ADJ.
+amphitheater N.
+ample ADJ.
+amplify V.
+amputate V.
+amulet N.
+anachronistic ADJ.
+analgesic ADJ.
+analogous ADJ.
+analogy N.
+anarchist N.
+anarchy N.
+anathema N.
+ancestry N.
+anchor V.
+ancillary ADJ.
+anecdote N.
+anemia N.
+anesthetic N.
+anguish N.
+angular ADJ.
+animated ADJ.
+animosity N.
+animus N.
+annals N.
+annex V.
+annihilate V.
+annotate V.
+annuity N.
+anoint V.
+anomalous ADJ.
+anomaly N.
+anonymity N.
+anonymous ADJ.
+antagonism N.
+antecede V.
+antediluvian ADJ.
+anthem N.
+anthology N.
+anthropocentric ADJ.
+anthropoid ADJ.
+anthropologist N.
+anthropomorphic ADJ.
+anticlimax N.
+antidote N.
+antipathy N.
+antiquated ADJ.
+antiseptic N.
+antithesis N.
+apathy N.
+ape V.
+aperture N.
+apex N.
+aphasia N.
+aphorism N.
+apiary N.
+aplomb N.
+apocalyptic ADJ.
+apocryphal ADJ.
+apogee N.
+apolitical ADJ.
+apologist N.
+apostate N.
+apotheosis N.
+appall V.
+apparatus N.
+apparition N.
+appease V.
+appellation N.
+append V.
+application N.
+apposite ADJ.
+appraise V.
+appreciate V.
+apprehend V.
+apprehension N.
+apprenticeship N.
+apprise V.
+approbation N.
+appropriate V.
+aptitude N.
+aquatic ADJ.
+aquiline ADJ.
+arable ADJ.
+arbiter N.
+arbitrary ADJ.
+arbitrator N.
+arboretum N.
+arcade N.
+arcane ADJ.
+archaic ADJ.
+archetype N.
+archipelago N.
+archives N.
+ardent ADJ.
+arduous ADJ.
+aria N.
+arid ADJ.
+aristocracy N.
+armada N.
+aromatic ADJ.
+arousal N.
+arraign V.
+array V.
+array V.
+arrears N.
+arrest V.
+arrogance N.
+arroyo N.
+arsenal N.
+articulate ADJ.
+artifact N.
+artifice N.
+artisan N.
+artless ADJ.
+ascendancy N.
+ascertain V.
+ascetic ADJ.
+ascribe V.
+aseptic ADJ.
+ashen ADJ.
+asinine ADJ.
+askance ADJ.
+askew ADJ.
+asperity N.
+aspirant N.
+aspire V.
+assail V.
+assay V.
+assent V.
+assert V.
+assessment N.
+assiduous ADJ.
+assimilate V.
+assuage V.
+assumption N.
+assurance N.
+asteroid N.
+astigmatism N.
+astral ADJ.
+astringent ADJ.
+astronomical ADJ.
+astute ADJ.
+asylum N.
+asymmetric ADJ.
+atavism N.
+atheistic ADJ.
+atlas N.
+atone V.
+atrocity N.
+atrophy N.
+attain V.
+attentive ADJ.
+attenuate V.
+attest V.
+attribute N.
+attribute V.
+attrition N.
+atypical ADJ.
+audacious ADJ.
+audit N.
+auditory ADJ.
+augment V.
+augury N.
+august ADJ.
+aureole N.
+auroral ADJ.
+auspicious ADJ.
+austere ADJ.
+authoritarian ADJ.
+authoritative ADJ.
+autocratic ADJ.
+automaton N.
+autonomous ADJ.
+autopsy N.
+auxiliary ADJ.
+avalanche N.
+avarice N.
+avenge V.
+averse ADJ.
+aversion N.
+avert V.
+aviary N.
+avid ADJ.
+avocation N.
+avow V.
+avuncular ADJ.
+awe N.
+axiom N.
+azure ADJ.
+babble V.
+bacchanalian ADJ.
+badger V.
+badinage N.
+baffle V.
+bait V.
+baleful ADJ.
+balk V.
+ballast N.
+balm N.
+balmy ADJ.
+banal ADJ.
+bandy V.
+bane N.
+bantering ADJ.
+barb N.
+bard N.
+baroque ADJ.
+barrage N.
+barren ADJ.
+barricade N.
+barterer N.
+bask V.
+bastion N.
+bate V.
+bauble N.
+bawdy ADJ.
+beam N.
+beatific ADJ.
+beatitude N.
+bedizen V.
+bedraggle V.
+beeline N.
+befuddle V.
+beget V.
+begrudge V.
+beguile V.
+behemoth N.
+belabor V.
+belated ADJ.
+beleaguer V.
+belie V.
+belittle V.
+bellicose ADJ.
+belligerent ADJ.
+bemoan V.
+bemused ADJ.
+benediction N.
+benefactor N.
+beneficial ADJ.
+beneficiary N.
+benevolent ADJ.
+benign ADJ.
+bequeath V.
+berate V.
+bereavement N.
+bereft ADJ.
+beseech V.
+beset V.
+besiege V.
+besmirch V.
+bestial ADJ.
+bestow V.
+betoken V.
+betray V.
+betroth V.
+bevy N.
+biased ADJ.
+bicameral ADJ.
+bicker V.
+biennial ADJ.
+bigotry N.
+bilious ADJ.
+bilk V.
+billowing ADJ.
+bivouac N.
+bizarre ADJ.
+blanch V.
+bland ADJ.
+blandishment N.
+blare N.
+blasé ADJ.
+blasphemy N.
+blatant ADJ.
+bleak ADJ.
+blighted ADJ.
+blithe ADJ.
+bloated ADJ.
+bludgeon N.
+bluff ADJ.
+bluff N.
+blunder N.
+blurt V.
+bluster V.
+bode V.
+bogus ADJ.
+bohemian ADJ.
+boisterous ADJ.
+bolster V.
+bolt N.
+bolt V.
+bombardment N.
+bombastic ADJ.
+booming ADJ.
+boon N.
+boorish ADJ.
+boundless ADJ.
+bountiful ADJ.
+bourgeois ADJ.
+bovine ADJ.
+bowdlerize V.
+boycott V.
+braggart N.
+brandish V.
+bravado N.
+brawn N.
+brazen ADJ.
+breach N.
+breadth N.
+brevity N.
+brindled ADJ.
+bristling ADJ.
+brittle ADJ.
+broach V.
+brochure N.
+brooch N.
+browbeat V.
+browse V.
+brunt N.
+brusque ADJ.
+buccaneer N.
+bucolic ADJ.
+buffet N.
+buffet V.
+buffoonery N.
+bullion N.
+bulwark N.
+bumptious ADJ.
+bungalow N.
+bungle V.
+buoyant ADJ.
+bureaucracy N.
+burgeon V.
+burlesque V.
+burly ADJ.
+burnish V.
+bustle V.
+buttress V.
+buxom ADJ.
+cabal N.
+cache N.
+cacophonous ADJ.
+cadaver N.
+cadaverous ADJ.
+cadence N.
+cajole V.
+calamity N.
+calculated ADJ.
+caldron N.
+caliber N.
+calligraphy N.
+callous ADJ.
+callow ADJ.
+calorific ADJ.
+calumny N.
+cameo N.
+camouflage V.
+candor N.
+canine ADJ.
+canny ADJ.
+cant N.
+cantankerous ADJ.
+cantata N.
+canter N.
+canto N.
+canvass V.
+capacious ADJ.
+capitulate V.
+caprice N.
+capricious ADJ.
+caption N.
+captivate V.
+carat N.
+cardinal ADJ.
+cardiologist N.
+careen V.
+caricature N.
+carnage N.
+carnal ADJ.
+carnivorous ADJ.
+carping ADJ.
+cartographer N.
+cascade N.
+castigate V.
+casualty N.
+cataclysm N.
+catalyst N.
+catapult N.
+cataract N.
+catastrophe N.
+catcall N.
+catechism N.
+categorical ADJ.
+catharsis N.
+catholic ADJ.
+caucus N.
+caulk V.
+causal ADJ.
+caustic ADJ.
+cavalcade N.
+cavalier ADJ.
+cavil V.
+cede V.
+celebrated ADJ.
+celerity N.
+celestial ADJ.
+celibate ADJ.
+censor N.
+censorious ADJ.
+censure V.
+centigrade ADJ.
+centrifugal ADJ.
+centripetal ADJ.
+centurion N.
+cerebral ADJ.
+cerebration N.
+ceremonious ADJ.
+certitude N.
+cessation N.
+cession N.
+chafe V.
+chaff N.
+chaffing ADJ.
+chagrin N.
+chalice N.
+chameleon N.
+champion V.
+charisma N.
+charlatan N.
+chary ADJ.
+chasm N.
+chassis N.
+chaste ADJ.
+chasten V.
+chastise V.
+chauvinist N.
+check V.
+checkered ADJ.
+cherubic ADJ.
+chicanery N.
+chide V.
+chimerical ADJ.
+chisel N.
+chisel V.
+choleric ADJ.
+choreography N.
+chortle V.
+chronic ADJ.
+chronicle V.
+churlish ADJ.
+cipher N.
+cipher N.
+circuitous ADJ.
+circumlocution N.
+circumscribe V.
+circumvent V.
+cistern N.
+citadel N.
+cite V.
+clairvoyant ADJ.
+clamber V.
+clamor N.
+clandestine ADJ.
+clangor N.
+clapper N.
+clasp N.
+claustrophobia N.
+cleave V.
+clemency N.
+clench V.
+cliché N.
+clientele N.
+climactic ADJ.
+clime N.
+clique N.
+cloister N.
+cloying ADJ.
+coagulate V.
+coalesce V.
+coalition N.
+coddle V.
+codicil N.
+codify V.
+coercion N.
+cogent ADJ.
+cogitate V.
+cognate ADJ.
+cognitive ADJ.
+cognizance N.
+cohere V.
+cohesion N.
+coiffure N.
+coin V.
+coincidence N.
+colander N.
+collaborate V.
+collage N.
+collate V.
+collateral N.
+colloquial ADJ.
+collusion N.
+colossal ADJ.
+comatose ADJ.
+combustible ADJ.
+comely ADJ.
+comeuppance N.
+commandeer V.
+commemorate V.
+commensurate ADJ.
+commiserate V.
+commodious ADJ.
+communal ADJ.
+compact N.
+compact ADJ.
+comparable ADJ.
+compatible ADJ.
+compelling ADJ.
+compensatory ADJ.
+compile V.
+complacency N.
+complaisant ADJ.
+complement V.
+complementary ADJ.
+compliance N.
+compliant ADJ.
+complicity N.
+component N.
+composure N.
+compound V.
+comprehensive ADJ.
+compress V.
+comprise V.
+compunction N.
+compute V.
+concave ADJ.
+concede V.
+conceit N.
+concentric ADJ.
+conception N.
+concerted ADJ.
+concession N.
+conciliatory ADJ.
+concise ADJ.
+contrived ADJ.
+controvert V.
+contusion N.
+conundrum N.
+convene V.
+convention N.
+conventional ADJ.
+converge V.
+conversant ADJ.
+converse N.
+converse V.
+convert N.
+convex ADJ.
+conveyance N.
+conviction N.
+convivial ADJ.
+convoke V.
+convoluted ADJ.
+coquette N.
+cordial ADJ.
+cordon N.
+cornucopia N.
+corollary N.
+coronation N.
+corporeal ADJ.
+corpulent ADJ.
+correlation N.
+corroborate V.
+corrode V.
+corrosive ADJ.
+corrugated ADJ.
+cosmopolitan ADJ.
+coterie N.
+countenance V.
+countenance N.
+countermand V.
+culvert N.
+cumbersome ADJ.
+cumulative ADJ.
+cupidity N.
+curator N.
+curmudgeon N.
+cursive ADJ.
+cursory ADJ.
+curtail V.
+cynical ADJ.
+cynosure N.
+dabble V.
+dais N.
+dank ADJ.
+dapper ADJ.
+dappled ADJ.
+daub V.
+daunt V.
+dauntless ADJ.
+dawdle V.
+deadlock N.
+deadpan ADJ.
+dearth N.
+debacle N.
+debase V.
+debauch V.
+debilitate V.
+debonair ADJ.
+debris N.
+debunk V.
+debutante N.
+decadence N.
+decapitate V.
+decelerate V.
+deciduous ADJ.
+decimate V.
+decipher V.
+declivity N.
+decollete ADJ.
+decomposition N.
+decorum N.
+decoy N.
+decrepit ADJ.
+decrepitude N.
+decry V.
+deducible ADJ.
+deface V.
+defame V.
+default N.
+defeatist ADJ.
+defection N.
+defer V.
+defer V.
+deference N.
+defiance N.
+defile V.
+definitive ADJ.
+deflect V.
+defoliate V.
+defray V.
+deft ADJ.
+defunct ADJ.
+defuse V.
+degenerate V.
+degradation N.
+dehydrate V.
+deify V.
+deign V.
+delectable ADJ.
+delete V.
+deleterious ADJ.
+deliberate V.
+delineate V.
+delirium N.
+delude V.
+deluge N.
+delusion N.
+delve V.
+demagogue N.
+demean V.
+demeanor N.
+demented ADJ.
+demise N.
+demolition N.
+demoniac ADJ.
+demur V.
+demure ADJ.
+demystify V.
+denigrate V.
+denizen N.
+denotation N.
+denounce V.
+depict V.
+deplete V.
+deplore V.
+deploy V.
+depose V.
+deposition N.
+depravity N.
+deprecate V.
+depreciate V.
+depredation N.
+deranged ADJ.
+derelict ADJ.
+deride V.
+derivative ADJ.
+dermatologist N.
+derogatory ADJ.
+descant V.
+descry V.
+desecrate V.
+desiccate V.
+desolate ADJ.
+desolate V.
+despise V.
+despoil V.
+despondent ADJ.
+despot N.
+destitute ADJ.
+desultory ADJ.
+detached ADJ.
+detergent N.
+determination N.
+deterrent N.
+detonation N.
+detraction N.
+detrimental ADJ.
+deviate V.
+devious ADJ.
+devise V.
+devoid ADJ.
+devotee N.
+devout ADJ.
+dexterous ADJ.
+diabolical ADJ.
+diagnosis N.
+discomfit V.
+discomposure N.
+disconcert V.
+disconsolate ADJ.
+discord N.
+discordant ADJ.
+discount V.
+discourse N.
+discredit V.
+discrepancy N.
+discrete ADJ.
+discretion N.
+discriminating ADJ.
+discursive ADJ.
+disdain V.
+disembark V.
+disenfranchise V.
+disengage V.
+disfigure V.
+disgorge V.
+disgruntle V.
+dishearten V.
+disheveled ADJ.
+disinclination N.
+disingenuous ADJ.
+disinter V.
+disinterested ADJ.
+disjointed ADJ.
+dislodge V.
+dismantle V.
+dismay V.
+dismember V.
+dismiss V.
+disparage V.
+disparate ADJ.
+disparity N.
+dispassionate ADJ.
+dispatch N.
+dispel V.
+disperse V.
+dispirited ADJ.
+disquiet V.
+dissection N.
+dissemble V.
+disseminate V.
+dissent V.
+dissertation N.
+dissident ADJ.
+dissimulate V.
+dissipate V.
+dissolute ADJ.
+dissolution N.
+dissonance N.
+dissuade V.
+distant ADJ.
+distend V.
+distill V.
+distinction N.
+distort V.
+distraught ADJ.
+diurnal ADJ.
+diva N.
+diverge V.
+divergent ADJ.
+diverse ADJ.
+diversion N.
+diversity N.
+divest V.
+divine V.
+divulge V.
+docile ADJ.
+doctrinaire ADJ.
+doctrine N.
+document V.
+doff V.
+dogged ADJ.
+doggerel N.
+dogmatic ADJ.
+doldrums N.
+doleful ADJ.
+dolt N.
+domicile N.
+domineer V.
+don V.
+doodle V.
+dormant ADJ.
+dormer N.
+dossier N.
+dote V.
+douse V.
+dowdy ADJ.
+downcast ADJ.
+drab ADJ.
+draconian ADJ.
+dregs N.
+drivel N.
+droll ADJ.
+drone N.
+drone V.
+dross N.
+drudgery N.
+dubious ADJ.
+ductile ADJ.
+dulcet ADJ.
+dumbfound V.
+dupe N.
+duplicity N.
+duration N.
+duress N.
+dutiful ADJ.
+dwarf V.
+dwindle V.
+dynamic ADJ.
+earthy ADJ.
+ebb V.
+ebullient ADJ.
+eccentric ADJ.
+eccentricity N.
+ecclesiastic ADJ.
+eclectic ADJ.
+eclipse V.
+ecologist N.
+economy N.
+ecstasy N.
+eddy N.
+edict N.
+edify V.
+eerie ADJ.
+efface V.
+effectual ADJ.
+effervescence N.
+efficacy N.
+effigy N.
+effrontery N.
+effusive ADJ.
+egoism N.
+egotistical ADJ.
+egregious ADJ.
+egress N.
+ejaculation N.
+elaboration N.
+elated ADJ.
+elegy N.
+elicit V.
+elixir N.
+ellipsis N.
+elliptical ADJ.
+eloquence N.
+elucidate V.
+elusive ADJ.
+emaciated ADJ.
+emanate V.
+emancipate V.
+embargo N.
+embark V.
+embed V.
+embellish V.
+embezzlement N.
+embody V.
+embrace V.
+embroider V.
+embroil V.
+embryonic ADJ.
+emend V.
+emendation N.
+eminent ADJ.
+emissary N.
+emollient N.
+empathy N.
+empirical ADJ.
+emulate V.
+enamored ADJ.
+encipher V.
+enclave N.
+encomium N.
+encompass V.
+encroachment N.
+encumber V.
+endearment N.
+endemic ADJ.
+endorse V.
+enduring ADJ.
+energize V.
+enervate V.
+enfranchise V.
+engage V.
+engaging ADJ.
+engender V.
+engross V.
+enhance V.
+enigma N.
+enigmatic ADJ.
+enmity N.
+ennui N.
+enormity N.
+enrapture V.
+ensconce V.
+ensemble N.
+entail V.
+enterprising ADJ.
+enthrall V.
+entice V.
+entitlement N.
+entity N.
+entomology N.
+entourage N.
+entrance V.
+entreat V.
+entrepreneur N.
+enumerate V.
+enunciate V.
+eon N.
+ephemeral ADJ.
+epic N.
+epicure N.
+epigram N.
+epilogue N.
+episodic ADJ.
+epistolary ADJ.
+epitaph N.
+epithet N.
+epitome N.
+epoch N.
+equable ADJ.
+equanimity N.
+equestrian N.
+equilibrium N.
+equine ADJ.
+equinox N.
+equitable ADJ.
+equity N.
+equivocal ADJ.
+equivocate V.
+erode V.
+erotic ADJ.
+erratic ADJ.
+erroneous ADJ.
+erudite ADJ.
+escapade N.
+escapism N.
+eschew V.
+esoteric ADJ.
+espionage N.
+espouse V.
+esteem V.
+estranged ADJ.
+ethereal ADJ.
+ethnic ADJ.
+ethos N.
+etymology N.
+eulogy N.
+euphemism N.
+euphonious ADJ.
+euphoria N.
+evanescent ADJ.
+evasive ADJ.
+evenhanded ADJ.
+evince V.
+evocative ADJ.
+ewe N.
+exacerbate V.
+exacting ADJ.
+exalt V.
+exasperate V.
+exceptionable ADJ.
+excerpt N.
+excise V.
+exclaim V.
+excoriate V.
+exculpate V.
+execrable ADJ.
+execute V.
+exegesis N.
+exemplary ADJ.
+exemplify V.
+exempt ADJ.
+exertion N.
+exhaustive ADJ.
+exhilarating ADJ.
+exhort V.
+exhume V.
+exigency N.
+exodus N.
+exonerate V.
+exorbitant ADJ.
+exorcise V.
+exotic ADJ.
+expansive ADJ.
+expatriate N.
+expedient ADJ.
+expedite V.
+expenditure N.
+expertise N.
+expiate V.
+expletive N.
+explicate V.
+explicit ADJ.
+exploit N.
+exploit V.
+expository ADJ.
+exposure N.
+expropriate V.
+expunge V.
+expurgate V.
+extant ADJ.
+extent N.
+extenuate V.
+extol V.
+extort V.
+extradition N.
+extraneous ADJ.
+extrapolation N.
+extricate V.
+extrinsic ADJ.
+extrovert N.
+extrude V.
+exuberance N.
+exude V.
+exult V.
+fabricate V.
+facade N.
+facet N.
+facetious ADJ.
+facile ADJ.
+facilitate V.
+facsimile N.
+faction N.
+faculty N.
+fallacious ADJ.
+fallible ADJ.
+fallow ADJ.
+falter V.
+fanaticism N.
+fancy N.
+fanfare N.
+farce N.
+fastidious ADJ.
+fatalism N.
+fathom V.
+fatuous ADJ.
+fauna N.
+fawning ADJ.
+faze V.
+feasible ADJ.
+fecundity N.
+feign V.
+feint N.
+felicitous ADJ.
+felicity N.
+fell ADJ.
+fell V.
+felon N.
+feral ADJ.
+ferment N.
+ferret V.
+fervent ADJ.
+fervid ADJ.
+fervor N.
+fester V.
+festive ADJ.
+fetid ADJ.
+fetter V.
+fiasco N.
+fickle ADJ.
+fictitious ADJ.
+fidelity N.
+figment N.
+figurative ADJ.
+figurine N.
+filament N.
+filch V.
+filial ADJ.
+filibuster V.
+finale N.
+finesse N.
+finicky ADJ.
+firebrand N.
+fissure N.
+fitful ADJ.
+flabbergasted ADJ.
+flaccid ADJ.
+flag V.
+flagrant ADJ.
+flair N.
+flamboyant ADJ.
+flaunt V.
+fleck V.
+fledgling ADJ.
+fleece N.
+fleece V.
+flick N.
+flinch V.
+flippant ADJ.
+flit V.
+floe N.
+flora N.
+florid ADJ.
+flounder V.
+flourish V.
+flout V.
+fluctuate V.
+fluency N.
+fluke N.
+fluster V.
+flux N.
+fodder N.
+foible N.
+foil N.
+foil V.
+foliage N.
+foment V.
+foolhardy ADJ.
+fop N.
+forbearance N.
+ford N.
+forebears N.
+foreboding N.
+forensic ADJ.
+foreshadow V.
+foresight N.
+forestall V.
+forgo V.
+forlorn ADJ.
+formality N.
+formidable ADJ.
+forsake V.
+forswear V.
+forte N.
+forthright ADJ.
+fortitude N.
+fortuitous ADJ.
+forum N.
+foster V.
+founder V.
+founder N.
+fracas N.
+fractious ADJ.
+frail ADJ.
+franchise N.
+frantic ADJ.
+fraternize V.
+fraudulent ADJ.
+fraught ADJ.
+fray N.
+frenetic ADJ.
+frenzied ADJ.
+fresco N.
+fret V.
+friction N.
+frigid ADJ.
+frivolous ADJ.
+frolicsome ADJ.
+frond N.
+frugality N.
+fruition N.
+frustrate V.
+fugitive ADJ.
+fulcrum N.
+fulsome ADJ.
+furlough N.
+furor N.
+furtive ADJ.
+fusion N.
+futile ADJ.
+gadfly N.
+gaffe N.
+gainsay V.
+gait N.
+galaxy N.
+gale N.
+gall N.
+gall V.
+galleon N.
+galvanize V.
+gambit N.
+gamut N.
+gape V.
+garbled ADJ.
+gargantuan ADJ.
+garish ADJ.
+garner V.
+garnish V.
+garrulous ADJ.
+gauche ADJ.
+gaudy ADJ.
+gaunt ADJ.
+gavel N.
+gawk V.
+genealogy N.
+generality N.
+generate V.
+generic ADJ.
+genesis N.
+geniality N.
+genre N.
+genteel ADJ.
+gentility N.
+gentry N.
+germane ADJ.
+germinal ADJ.
+germinate V.
+gesticulation N.
+ghastly ADJ.
+gibberish N.
+gibe V.
+giddy ADJ.
+girth N.
+gist N.
+glacial ADJ.
+glaring ADJ.
+glaze V.
+glib ADJ.
+glimmer V.
+gloat V.
+glossary N.
+glossy ADJ.
+glower V.
+glut V.
+glutton N.
+gnarled ADJ.
+gnome N.
+goad V.
+gorge N.
+gorge V.
+gory ADJ.
+gouge V.
+gourmand N.
+gourmet N.
+graduated ADJ.
+graft N.
+grandeur N.
+grandiloquent ADJ.
+grandiose ADJ.
+granulate V.
+graphic ADJ.
+grapple V.
+grate V.
+gratify V.
+gratis ADJ.
+gratuitous ADJ.
+gravity N.
+gregarious ADJ.
+grievance N.
+grill V.
+grimace N.
+grisly ADJ.
+grouse V.
+grotesque ADJ.
+grove N.
+grovel V.
+grudging ADJ.
+gruel V.
+grueling ADJ.
+gruesome ADJ.
+gruff ADJ.
+guffaw N.
+guile N.
+guileless ADJ.
+guise N.
+gullible ADJ.
+gustatory ADJ.
+gusto N.
+gusty ADJ.
+hackneyed ADJ.
+haggard ADJ.
+haggle V.
+hallowed ADJ.
+hallucination N.
+halting ADJ.
+hamper V.
+haphazard ADJ.
+harangue N.
+harass V.
+harbinger N.
+harbor V.
+hardy ADJ.
+harrowing ADJ.
+haughtiness N.
+hazardous ADJ.
+hazy ADJ.
+headlong ADJ.
+headstrong ADJ.
+heckler N.
+hedonist N.
+heed V.
+heedless ADJ.
+heinous ADJ.
+herbivorous ADJ.
+heresy N.
+hermetic ADJ.
+hermitage N.
+heterodox ADJ.
+heterogeneous ADJ.
+heyday N.
+hiatus N.
+hibernal ADJ.
+hibernate V.
+hierarchy N.
+hilarity N.
+hindrance N.
+histrionic ADJ.
+hoard V.
+hoary ADJ.
+hoax N.
+hodgepodge N.
+holster N.
+homage N.
+homogeneous ADJ.
+hone V.
+hoodwink V.
+horde N.
+horticultural ADJ.
+host N.
+hostility N.
+hovel N.
+hover V.
+hue N.
+hulking ADJ.
+humane ADJ.
+humdrum ADJ.
+humid ADJ.
+humility N.
+hurtle V.
+husband V.
+hybrid N.
+hydrophobia N.
+hyperbole N.
+hypochondriac N.
+hypocritical ADJ.
+ichthyology N.
+icon N.
+iconoclastic ADJ.
+ideology N.
+idiom N.
+idiosyncrasy N.
+idolatry N.
+ignite V.
+ignoble ADJ.
+ignominy N.
+illicit ADJ.
+illimitable ADJ.
+illuminate V.
+illusion N.
+illusory ADJ.
+imbalance N.
+imbibe V.
+immaculate ADJ.
+imminent ADJ.
+immobility N.
+immune ADJ.
+immutable ADJ.
+impair V.
+impale V.
+impalpable ADJ.
+impart V.
+impartial ADJ.
+impassable ADJ.
+impasse N.
+impassive ADJ.
+impeach V.
+impeccable ADJ.
+impecunious ADJ.
+impede V.
+impediment N.
+impel V.
+impenetrable ADJ.
+impending ADJ.
+impenitent ADJ.
+imperative ADJ.
+imperceptible ADJ.
+imperial ADJ.
+imperious ADJ.
+impermeable ADJ.
+impertinent ADJ.
+imperturbable ADJ.
+impetuous ADJ.
+impetus N.
+impiety N.
+impinge V.
+impious ADJ.
+implacable ADJ.
+implausible ADJ.
+implement V.
+implicate V.
+implication N.
+implicit ADJ.
+implore V.
+imply V.
+importunate ADJ.
+importune V.
+impostor N.
+impotent ADJ.
+impoverished ADJ.
+impromptu ADJ.
+impropriety N.
+improvident ADJ.
+improvise V.
+imprudent ADJ.
+impudence N.
+impugn V.
+impunity N.
+inalienable ADJ.
+inane ADJ.
+inanimate ADJ.
+inarticulate ADJ.
+inaugurate V.
+incandescent ADJ.
+incantation N.
+incapacitate V.
+incarcerate V.
+incarnation N.
+incendiary N.
+incense V.
+incentive N.
+inception N.
+incessant ADJ.
+inchoate ADJ.
+incidence N.
+incidental ADJ.
+incipient ADJ.
+incisive ADJ.
+incite V.
+inclement ADJ.
+incline N.
+inclined ADJ.
+inclusive ADJ.
+incoherent ADJ.
+incompatible ADJ.
+incongruous ADJ.
+inconsequential ADJ.
+inconsistency N.
+incontinent ADJ.
+incontrovertible ADJ.
+incorporate V.
+incorporeal ADJ.
+incorrigible ADJ.
+incredulous ADJ.
+increment N.
+incriminate V.
+incrustation N.
+incubate V.
+inculcate V.
+incumbent ADJ.
+incur V.
+incursion N.
+indefatigable ADJ.
+indelible ADJ.
+indentation N.
+indenture V.
+indeterminate ADJ.
+indicative ADJ.
+indict V.
+indifferent ADJ.
+indigenous ADJ.
+indigent ADJ.
+indignation N.
+indignity N.
+indiscretion N.
+indiscriminate ADJ.
+indissoluble ADJ.
+indoctrinate V.
+indolent ADJ.
+indomitable ADJ.
+indubitable ADJ.
+induce V.
+indulgent ADJ.
+industrious ADJ.
+inebriated ADJ.
+ineffable ADJ.
+ineffectual ADJ.
+inefficacious ADJ.
+inept ADJ.
+inequity N.
+inert ADJ.
+inevitable ADJ.
+inexorable ADJ.
+infallible ADJ.
+infamous ADJ.
+infantile ADJ.
+infer V.
+infernal ADJ.
+infidel N.
+infiltrate V.
+infinitesimal ADJ.
+infirmity N.
+inflated ADJ.
+influx N.
+informal ADJ.
+infraction N.
+infuriate V.
+infusion N.
+ingenious ADJ.
+ingenue N.
+ingenuous ADJ.
+ingrained ADJ.
+ingrate N.
+ingratiate V.
+inherent ADJ.
+inhibit V.
+inimical ADJ.
+inimitable ADJ.
+iniquitous ADJ.
+initiate V.
+inkling N.
+innate ADJ.
+innocuous ADJ.
+innovation N.
+innovative ADJ.
+innuendo N.
+inopportune ADJ.
+inordinate ADJ.
+inquisitor N.
+insatiable ADJ.
+inscrutable ADJ.
+insensible ADJ.
+insidious ADJ.
+insightful ADJ.
+insinuate V.
+insipid ADJ.
+insolence N.
+insolvent ADJ.
+insomnia N.
+instigate V.
+insubordination N.
+insubstantial ADJ.
+insularity N.
+insulated ADJ.
+insuperable ADJ.
+insurgent ADJ.
+insurmountable ADJ.
+insurrection N.
+intangible ADJ.
+integral ADJ.
+integrate V.
+integrity N.
+intellect N.
+intelligentsia N.
+intemperate ADJ.
+inter V.
+interim N.
+interloper N.
+interment N.
+intermittent ADJ.
+interrogate V.
+intervene V.
+intimacy N.
+intimate V.
+intimidate V.
+intractable ADJ.
+intransigence N.
+intrepid ADJ.
+intricate ADJ.
+intrinsic ADJ.
+introspective ADJ.
+intrude V.
+intuition N.
+inundate V.
+inured ADJ.
+invalidate V.
+invasive ADJ.
+invective N.
+inverse ADJ.
+invert V.
+invidious ADJ.
+invigorate V.
+invincible ADJ.
+inviolable ADJ.
+invocation N.
+invoke V.
+iota N.
+irascible ADJ.
+irate ADJ.
+ire N.
+iridescent ADJ.
+irksome ADJ.
+ironic ADJ.
+irony N.
+irrational ADJ.
+irreconcilable ADJ.
+irrefutable ADJ.
+irrelevant ADJ.
+irreparable ADJ.
+irrepressible ADJ.
+irreproachable ADJ.
+irresolute ADJ.
+irretrievable ADJ.
+irreverence N.
+irrevocable ADJ.
+itinerant ADJ.
+itinerary N.
+jabber V.
+jaded ADJ.
+jargon N.
+jaundiced ADJ.
+jaunt N.
+jaunty ADJ.
+jeopardize V.
+jettison V.
+jingoist N.
+jocose ADJ.
+jocular ADJ.
+jollity N.
+jostle V.
+jovial ADJ.
+jubilation N.
+judicious ADJ.
+juncture N.
+junta N.
+jurisprudence N.
+justification N.
+kaleidoscope N.
+kernel N.
+killjoy N.
+kindle V.
+kindred ADJ.
+kinetic ADJ.
+kleptomaniac N.
+knave N.
+knit V.
+knoll N.
+knotty ADJ.
+kudos N.
+laborious ADJ.
+labyrinth N.
+laceration N.
+lachrymose ADJ.
+lackadaisical ADJ.
+lackluster ADJ.
+laconic ADJ.
+laggard ADJ.
+lament V.
+lampoon V.
+languid ADJ.
+languish V.
+languor N.
+lap V.
+larceny N.
+larder N.
+largess N.
+lassitude N.
+latent ADJ.
+lateral ADJ.
+latitude N.
+laud V.
+lavish ADJ.
+leaven V.
+lechery N.
+leery ADJ.
+legacy N.
+legend N.
+leniency N.
+lethal ADJ.
+lethargic ADJ.
+levitate V.
+levity N.
+levy V.
+lewd ADJ.
+lexicographer N.
+lexicon N.
+liability N.
+liaison N.
+libel N.
+liberator N.
+libretto N.
+licentious ADJ.
+lilliputian ADJ.
+limber ADJ.
+limerick N.
+limpid ADJ.
+linchpin N.
+lineage N.
+linger V.
+linguistic ADJ.
+liniment N.
+lionize V.
+liquidate V.
+list V.
+listless ADJ.
+litany N.
+lithe ADJ.
+litigation N.
+livid ADJ.
+loath ADJ.
+loathe V.
+lofty ADJ.
+log N.
+loiter V.
+loll V.
+longevity N.
+loom V.
+lope V.
+lout N.
+low V.
+lucid ADJ.
+lucrative ADJ.
+ludicrous ADJ.
+lugubrious ADJ.
+lull N.
+lull V.
+lumber V.
+luminary N.
+luminous ADJ.
+lummox N.
+lunar ADJ.
+lunge V.
+lurid ADJ.
+lurk V.
+luscious ADJ.
+luster N.
+lustrous ADJ.
+luxuriant ADJ.
+machinations N.
+madrigal N.
+maelstrom N.
+magnanimous ADJ.
+magnate N.
+magnitude N.
+maim V.
+maladroit ADJ.
+malady N.
+malaise N.
+malapropism N.
+malcontent N.
+malediction N.
+malefactor N.
+malevolent ADJ.
+malfeasance N.
+malicious ADJ.
+malign V.
+malignant ADJ.
+malingerer N.
+malleable ADJ.
+malodorous ADJ.
+mammal N.
+mammoth ADJ.
+mandate N.
+mandatory ADJ.
+maniacal ADJ.
+manifest ADJ.
+manifesto N.
+mannered ADJ.
+marital ADJ.
+maritime ADJ.
+marked ADJ.
+marquee N.
+marred ADJ.
+marshal V.
+marsupial N.
+martial ADJ.
+martinet N.
+masochist N.
+material ADJ.
+materialism N.
+maternal ADJ.
+matriarch N.
+matriculate V.
+maudlin ADJ.
+maul V.
+maverick N.
+mawkish ADJ.
+maxim N.
+meager ADJ.
+meander V.
+meddlesome ADJ.
+mediate V.
+mediocre ADJ.
+meditation N.
+medley N.
+meek ADJ.
+melancholy ADJ.
+mellifluous ADJ.
+membrane N.
+memento N.
+menagerie N.
+mendacious ADJ.
+mendicant N.
+menial ADJ.
+mentor N.
+mercenary ADJ.
+mercurial ADJ.
+merger N.
+mesmerize V.
+metallurgical ADJ.
+metamorphosis N.
+metaphor N.
+metaphysical ADJ.
+methodical ADJ.
+meticulous ADJ.
+metropolis N.
+mettle N.
+miasma N.
+microcosm N.
+migrant ADJ.
+migratory ADJ.
+milieu N.
+militant ADJ.
+mimicry N.
+mincing ADJ.
+minuscule ADJ.
+minute ADJ.
+minutiae N.
+mirage N.
+mire V.
+mirth N.
+misanthrope N.
+misapprehension N.
+miscellany N.
+mischance N.
+misconception N.
+misdemeanor N.
+miserly ADJ.
+misgivings N.
+mishap N.
+misnomer N.
+misrepresent V.
+missile N.
+missive N.
+mite N.
+mitigate V.
+mnemonic ADJ.
+mobile ADJ.
+mock V.
+mode N.
+modicum N.
+modulate V.
+molecule N.
+mollify V.
+molt V.
+molten ADJ.
+momentous ADJ.
+momentum N.
+monarchy N.
+monastic ADJ.
+monetary ADJ.
+monochromatic ADJ.
+monolithic ADJ.
+monosyllabic ADJ.
+monotony N.
+montage N.
+moodiness N.
+moratorium N.
+morbid ADJ.
+mores N.
+moribund ADJ.
+morose ADJ.
+mortician N.
+mortify V.
+mosaic N.
+mote N.
+motif N.
+motley ADJ.
+mottled ADJ.
+muddle V.
+muggy ADJ.
+multifarious ADJ.
+multiform ADJ.
+multilingual ADJ.
+multiplicity N.
+mundane ADJ.
+munificent ADJ.
+mural N.
+murky ADJ.
+muse V.
+mushroom V.
+musky ADJ.
+muster V.
+musty ADJ.
+mutability N.
+muted ADJ.
+mutinous ADJ.
+myopic ADJ.
+myriad N.
+mystify V.
+nadir N.
+naiveté N.
+narcissist N.
+narrative ADJ.
+nascent ADJ.
+natty ADJ.
+nauseate V.
+nautical ADJ.
+navigable ADJ.
+nebulous ADJ.
+nefarious ADJ.
+negate V.
+negligence N.
+negligible ADJ.
+nemesis N.
+neologism N.
+neophyte N.
+nepotism N.
+nettle V.
+neutral ADJ.
+nicety N.
+nihilist N.
+nip V.
+nirvana N.
+nocturnal ADJ.
+noisome ADJ.
+nomadic ADJ.
+nomenclature N.
+nominal ADJ.
+nonchalance N.
+noncommittal ADJ.
+nondescript ADJ.
+nonentity N.
+nonplus V.
+nostalgia N.
+notable ADJ.
+notoriety N.
+novelty N.
+novice N.
+noxious ADJ.
+nuance N.
+nullify V.
+nuptial ADJ.
+nurture V.
+nutrient N.
+oaf N.
+obdurate ADJ.
+obese ADJ.
+obfuscate V.
+obituary ADJ.
+objective ADJ.
+objective N.
+obligatory ADJ.
+oblique ADJ.
+obliterate V.
+oblivion N.
+oblivious ADJ.
+obnoxious ADJ.
+obscure ADJ.
+obscure V.
+obsequious ADJ.
+obsessive ADJ.
+obsolete ADJ.
+obstetrician N.
+obstinate ADJ.
+obstreperous ADJ.
+obtrude V.
+obtuse ADJ.
+obviate V.
+odious ADJ.
+odium N.
+odorous ADJ.
+odyssey N.
+offensive ADJ.
+offhand ADJ.
+officious ADJ.
+ogle V.
+olfactory ADJ.
+oligarchy N.
+ominous ADJ.
+omnipotent ADJ.
+omnipresent ADJ.
+omniscient ADJ.
+omnivorous ADJ.
+onerous ADJ.
+onset N.
+onus N.
+opalescent ADJ.
+opaque ADJ.
+opiate N.
+opportune ADJ.
+opportunist N.
+optician N.
+optimist N.
+optimum ADJ.
+optional ADJ.
+opulence N.
+opus N.
+oracular ADJ.
+orator N.
+ordain V.
+ordeal N.
+ordinance N.
+ordination N.
+orgy N.
+orient V.
+orientation N.
+ornate ADJ.
+ornithologist N.
+ornithology N.
+orthodox ADJ.
+oscillate V.
+ossify V.
+ostensible ADJ.
+ostracize V.
+oust V.
+outlandish ADJ.
+outmoded ADJ.
+outskirts N.
+outspoken ADJ.
+outstrip V.
+outwit V.
+ovation N.
+overbearing ADJ.
+overt ADJ.
+overwrought ADJ.
+pachyderm N.
+pacifist N.
+pacify V.
+pact N.
+paean N.
+painstaking ADJ.
+palatable ADJ.
+paleontology N.
+palette N.
+pall V.
+palliate V.
+pallid ADJ.
+palpable ADJ.
+palpitate V.
+paltry ADJ.
+pan V.
+panacea N.
+panache N.
+pandemic ADJ.
+pandemonium N.
+pander V.
+panegyric N.
+panoramic ADJ.
+pantomime N.
+papyrus N.
+parable N.
+paradigm N.
+paradox N.
+paragon N.
+parallelism N.
+paramount ADJ.
+paranoia N.
+paraphernalia N.
+paraphrase V.
+parasite N.
+parched ADJ.
+pariah N.
+parity N.
+parochial ADJ.
+parody N.
+paroxysm N.
+parry V.
+parsimony N.
+partial ADJ.
+partiality N.
+partisan ADJ.
+partition V.
+passive ADJ.
+passport N.
+pastiche N.
+pastoral ADJ.
+patent ADJ.
+pathetic ADJ.
+pathos N.
+patina N.
+patriarch N.
+patrician ADJ.
+patronize V.
+paucity N.
+pauper N.
+peccadillo N.
+pecuniary ADJ.
+pedagogy N.
+pedant N.
+pedantic ADJ.
+pedestrian ADJ.
+pediatrician N.
+peerless ADJ.
+pejorative ADJ.
+pellucid ADJ.
+penchant N.
+pendant N.
+penitent ADJ.
+pensive ADJ.
+penury N.
+perceptive ADJ.
+percussion ADJ.
+perdition N.
+peregrination N.
+peremptory ADJ.
+perennial N.
+perfidious ADJ.
+perforate V.
+perfunctory ADJ.
+perimeter N.
+peripheral ADJ.
+periphery N.
+perjury N.
+permeable ADJ.
+permeate V.
+pernicious ADJ.
+perpetrate V.
+perpetual ADJ.
+perpetuate V.
+perquisite N.
+persona N.
+personable ADJ.
+perspicacious ADJ.
+pert ADJ.
+pertinent ADJ.
+perturb V.
+peruse V.
+pervasive ADJ.
+perverse ADJ.
+pessimism N.
+petrify V.
+petty ADJ.
+petulant ADJ.
+phenomena N.
+philanderer N.
+philanthropist N.
+philistine N.
+philology N.
+phlegmatic ADJ.
+phobia N.
+phoenix N.
+phylum N.
+physiological ADJ.
+picaresque ADJ.
+piebald ADJ.
+pied ADJ.
+piety N.
+pigment N.
+pillage V.
+pine V.
+pinnacle N.
+pious ADJ.
+piquant ADJ.
+pique N.
+pique V.
+pitfall N.
+pithy ADJ.
+pittance N.
+pivotal ADJ.
+placate V.
+placebo N.
+placid ADJ.
+plagiarism N.
+plagiarize V.
+plaintive ADJ.
+plasticity N.
+platitude N.
+plaudit N.
+plausible ADJ.
+plenitude N.
+plethora N.
+pliable ADJ.
+pliant ADJ.
+plight N.
+plumb ADJ.
+plumage N.
+plummet V.
+plutocracy N.
+podiatrist N.
+podium N.
+poignancy N.
+polarize V.
+polemical ADJ.
+politic ADJ.
+polygamist N.
+polyglot ADJ.
+pomposity N.
+ponderous ADJ.
+pontifical ADJ.
+pore V.
+porous ADJ.
+portend V.
+portent N.
+portly ADJ.
+poseur N.
+posterity N.
+posthumous ADJ.
+postulate N.
+potable ADJ.
+potent ADJ.
+potentate N.
+potential ADJ.
+potion N.
+practicable ADJ.
+practical ADJ.
+practitioner N.
+pragmatic ADJ.
+pragmatist N.
+prank N.
+prate V.
+prattle V.
+preamble N.
+precarious ADJ.
+precedent N.
+precept N.
+precinct N.
+precipice N.
+precipitate ADJ.
+precipitate V.
+precipitous ADJ.
+précis N.
+precise ADJ.
+preclude V.
+precocious ADJ.
+precursor N.
+predator N.
+predecessor N.
+predetermine V.
+predilection N.
+predispose V.
+preeminent ADJ.
+preempt V.
+preen V.
+prehensile ADJ.
+prelate N.
+prelude N.
+premeditate V.
+premise N.
+premonition N.
+preposterous ADJ.
+prerogative N.
+presage V.
+prescience N.
+presentiment N.
+prestige N.
+presumptuous ADJ.
+pretentious ADJ.
+preternatural ADJ.
+pretext N.
+prevail V.
+prevalent ADJ.
+prevaricate V.
+prey N.
+prim ADJ.
+primordial ADJ.
+primp V.
+pristine ADJ.
+privation N.
+probe V.
+problematic ADJ.
+proclivity N.
+procrastinate V.
+prod V.
+prodigal ADJ.
+prodigious ADJ.
+prodigy N.
+profane V.
+profligate ADJ.
+profound ADJ.
+profusion N.
+progenitor N.
+progeny N.
+prognosis N.
+projectile N.
+proletarian N.
+proliferation N.
+prolific ADJ.
+prolixity N.
+prologue N.
+prolong V.
+prominent ADJ.
+promiscuous ADJ.
+promontory N.
+promote V.
+prompt V.
+promulgate V.
+prone ADJ.
+propagate V.
+propellants N.
+propensity N.
+prophetic ADJ.
+propinquity N.
+propitiate V.
+propitious ADJ.
+proponent N.
+propound V.
+propriety N.
+propulsive ADJ.
+prosaic ADJ.
+proscribe V.
+proselytize V.
+prosperity N.
+prostrate V.
+protean ADJ.
+protégé N.
+protocol N.
+prototype N.
+protract V.
+protrude V.
+protuberance N.
+provident ADJ.
+provincial ADJ.
+provisional ADJ.
+provocative ADJ.
+provoke V.
+prowess N.
+proximity N.
+proxy N.
+prude N.
+prudent ADJ.
+prune V.
+prurient ADJ.
+pseudonym N.
+psyche N.
+pterodactyl N.
+puerile ADJ.
+pugilist N.
+pugnacity N.
+pulchritude N.
+pulverize V.
+pummel V.
+punctilious ADJ.
+pundit N.
+pungent ADJ.
+punitive ADJ.
+puny ADJ.
+purchase N.
+purge V.
+purported ADJ.
+purse V.
+purveyor N.
+pusillanimous ADJ.
+putrid ADJ.
+pyromaniac N.
+quack N.
+quadruped N.
+quaff V.
+quagmire N.
+quail V.
+quaint ADJ.
+qualified ADJ.
+qualms N.
+quandary N.
+quarantine N.
+quarry N.
+quarry V.
+quay N.
+queasy ADJ.
+quell V.
+quench V.
+querulous ADJ.
+query N.
+quibble N.
+quiescent ADJ.
+quietude N.
+quintessence N.
+quip N.
+quirk N.
+quiver V.
+quiver N.
+quixotic ADJ.
+quizzical ADJ.
+quorum N.
+rabid ADJ.
+raconteur N.
+rail V.
+raiment N.
+rally V.
+ramble V.
+ramification N.
+ramify V.
+ramp N.
+rampant ADJ.
+ramshackle ADJ.
+rancid ADJ.
+rancor N.
+random ADJ.
+rankle V.
+rant V.
+rapacious ADJ.
+rapport N.
+rapt ADJ.
+rarefied ADJ.
+raspy ADJ.
+ratify V.
+ratiocination N.
+rationale N.
+rationalize V.
+raucous ADJ.
+rave N.
+ravel V.
+ravenous ADJ.
+raze V.
+reactionary ADJ.
+realm N.
+reaper N.
+rebuff V.
+rebuke V.
+rebuttal N.
+recalcitrant ADJ.
+recant V.
+recapitulate V.
+recast V.
+receptive ADJ.
+recession N.
+recidivism N.
+recipient N.
+reciprocal ADJ.
+reciprocate V.
+recluse N.
+reconcile V.
+reconnaissance N.
+recount V.
+recourse N.
+recrimination N.
+rectify V.
+rectitude N.
+recumbent ADJ.
+recuperate V.
+recurrent ADJ.
+redolent ADJ.
+redoubtable ADJ.
+redress N.
+redundant ADJ.
+reek V.
+refraction N.
+refractory ADJ.
+refrain V.
+refurbish V.
+refute V.
+regal ADJ.
+regale V.
+regime N.
+regimen N.
+rehabilitate V.
+reimburse V.
+reiterate V.
+rejoinder N.
+rejuvenate V.
+relegate V.
+relent V.
+relevant ADJ.
+relic N.
+relinquish V.
+relish V.
+remediable ADJ.
+remedial ADJ.
+reminiscence N.
+remiss ADJ.
+remission N.
+remnant N.
+remonstrance N.
+remorse N.
+remunerative ADJ.
+rend V.
+render V.
+rendition N.
+renegade N.
+renege V.
+renounce V.
+renovate V.
+renown N.
+rent N.
+reparable ADJ.
+reparation N.
+repast N.
+repeal V.
+repel V.
+repellent ADJ.
+repercussion N.
+repertoire N.
+replenish V.
+replete ADJ.
+replica N.
+replicate V.
+repository N.
+reprehensible ADJ.
+repress V.
+reprieve N.
+reprimand V.
+reprisal N.
+reprise N.
+reproach V.
+reprobate N.
+reprove V.
+repudiate V.
+repugnant ADJ.
+repulsion N.
+reputable ADJ.
+reputed ADJ.
+requiem N.
+requisite N.
+requite V.
+rescind V.
+resentment N.
+reserve N.
+residue N.
+resigned ADJ.
+resilient ADJ.
+resolution N.
+resolve N.
+resolve V.
+resonant ADJ.
+respiration N.
+respite N.
+resplendent ADJ.
+responsiveness N.
+restitution N.
+restive ADJ.
+restraint N.
+resumption N.
+resurge V.
+retain V.
+retaliation N.
+retentive ADJ.
+reticence N.
+retinue N.
+retiring ADJ.
+retort N.
+retract V.
+retrench V.
+retribution N.
+retrieve V.
+retroactive ADJ.
+retrograde V.
+retrospective ADJ.
+revelry N.
+reverent ADJ.
+reverie N.
+revert V.
+revile V.
+revoke V.
+revulsion N.
+rhapsodize V.
+rhetoric N.
+rhetorical ADJ.
+ribald ADJ.
+riddle V.
+rider N.
+rife ADJ.
+rift N.
+rig V.
+rigid ADJ.
+rigor N.
+rigorous ADJ.
+rile V.
+riveting ADJ.
+rivulet N.
+robust ADJ.
+roil V.
+roster N.
+rostrum N.
+rote N.
+rotundity N.
+rousing ADJ.
+rout V.
+rubble N.
+ruddy ADJ.
+rudimentary ADJ.
+rue V.
+ruffian N.
+ruminate V.
+rummage V.
+ruse N.
+rustic ADJ.
+ruthless ADJ.
+saboteur N.
+saccharine ADJ.
+sacrilegious ADJ.
+sacrosanct ADJ.
+sadistic ADJ.
+saga N.
+sage N.
+salacious ADJ.
+salient ADJ.
+salubrious ADJ.
+salutary ADJ.
+salvage V.
+salvo N.
+sanctimonious ADJ.
+sanction V.
+sanctuary N.
+sanguine ADJ.
+sap V.
+sarcasm N.
+sardonic ADJ.
+sartorial ADJ.
+sate V.
+satellite N.
+satiate V.
+satire N.
+satirical ADJ.
+saturate V.
+saturnine ADJ.
+saunter V.
+savant N.
+savor V.
+savory ADJ.
+scabbard N.
+scad N.
+scaffold N.
+scale V.
+scamp N.
+scanty ADJ.
+scapegoat N.
+scavenge V.
+scenario N.
+schematic ADJ.
+schism N.
+scintillate V.
+scoff V.
+scourge N.
+scruple V.
+scrupulous ADJ.
+scrutinize V.
+scuffle V.
+scurry V.
+scurvy ADJ.
+scuttle V.
+scuttle V.
+seamy ADJ.
+seasoned ADJ.
+secession N.
+seclusion N.
+secrete V.
+sectarian ADJ.
+secular ADJ.
+sedate ADJ.
+sedentary ADJ.
+sedition N.
+sedulous ADJ.
+seedy ADJ.
+seemly ADJ.
+seep V.
+seethe V.
+seismic ADJ.
+seminary N.
+sensual ADJ.
+sententious ADJ.
+sentinel N.
+sequester V.
+serendipity N.
+serenity N.
+serrated ADJ.
+servile ADJ.
+servitude N.
+sever V.
+severity N.
+shackle V.
+sham V.
+shambles N.
+shard N.
+sheaf N.
+shear V.
+sheathe V.
+sheer ADJ.
+shimmer V.
+shirk V.
+shoddy ADJ.
+shrewd ADJ.
+shroud V.
+shun V.
+shyster N.
+sibling N.
+simian ADJ.
+simile N.
+simper V.
+simulate V.
+sinecure N.
+sinewy ADJ.
+singular ADJ.
+sinister ADJ.
+sinuous ADJ.
+skeptic N.
+skiff N.
+skimp V.
+skinflint N.
+skirmish N.
+skulk V.
+slacken V.
+slag N.
+slake V.
+slander N.
+slapdash ADJ.
+sleeper N.
+sleight N.
+slight N.
+slipshod ADJ.
+slither V.
+slothful ADJ.
+slough V.
+slovenly ADJ.
+sluggard N.
+sluggish ADJ.
+slur V.
+slur N.
+also V.
+smelt V.
+smirk N.
+smolder V.
+snicker N.
+snivel V.
+sodden ADJ.
+sojourn N.
+solace N.
+solder V.
+solecism N.
+solemnity N.
+solicit V.
+solicitous ADJ.
+soliloquy N.
+solitude N.
+soluble ADJ.
+solvent ADJ.
+somber ADJ.
+somnambulist N.
+somnolent ADJ.
+sonorous ADJ.
+sophisticated ADJ.
+sophistry N.
+sophomoric ADJ.
+soporific ADJ.
+sordid ADJ.
+sovereign ADJ.
+spangle N.
+sparse ADJ.
+spartan ADJ.
+spasmodic ADJ.
+spat N.
+spate N.
+spatial ADJ.
+spatula N.
+spawn V.
+specious ADJ.
+spectrum N.
+spendthrift N.
+sphinx-like ADJ.
+splice V.
+spontaneity N.
+sporadic ADJ.
+sportive ADJ.
+spry ADJ.
+spurious ADJ.
+spurn V.
+squabble N.
+squalor N.
+squander V.
+squat ADJ.
+staccato ADJ.
+stagnant ADJ.
+staid ADJ.
+stalemate N.
+stalwart ADJ.
+stamina N.
+stanch V.
+stanza N.
+static ADJ.
+statute N.
+steadfast ADJ.
+stealth N.
+steep V.
+stellar ADJ.
+stem V.
+stereotype N.
+stifle V.
+stigma N.
+stigmatize V.
+stilted ADJ.
+stint N.
+stint V.
+stipend N.
+stipulate V.
+stodgy ADJ.
+stoke V.
+stolid ADJ.
+stratagem N.
+stratify V.
+stratum N.
+strew V.
+striated ADJ.
+stricture N.
+strident ADJ.
+stringent ADJ.
+strut N.
+strut N.
+studied ADJ.
+stultify V.
+stupefy V.
+stupor N.
+stymie V.
+suavity N.
+subdued ADJ.
+subjective ADJ.
+subjugate V.
+sublime ADJ.
+subliminal ADJ.
+submissive ADJ.
+subordinate ADJ.
+suborn V.
+subpoena N.
+subsequent ADJ.
+subservient ADJ.
+subside V.
+subsidiary ADJ.
+subsidy N.
+subsistence N.
+substantial ADJ.
+substantive ADJ.
+subterfuge N.
+subtlety N.
+subversive ADJ.
+succinct ADJ.
+succor V.
+succulent ADJ.
+succumb V.
+suffragist N.
+sully V.
+sultry ADJ.
+summation N.
+summit N.
+sumptuous ADJ.
+sunder V.
+superficial ADJ.
+superfluous ADJ.
+superimpose V.
+supersede V.
+supplant V.
+supple ADJ.
+supplicate V.
+supposition N.
+suppress V.
+surfeit V.
+surly ADJ.
+surmise V.
+surmount V.
+surpass V.
+surreptitious ADJ.
+surrogate N.
+surveillance N.
+susceptible ADJ.
+sustain V.
+sustenance N.
+suture N.
+swagger V.
+swarm N.
+swarthy ADJ.
+swathe V.
+swelter V.
+swerve V.
+swill V.
+swindler N.
+sybarite N.
+sycophant N.
+symbiosis N.
+symmetry N.
+synoptic ADJ.
+synthesis N.
+table V.
+tacit ADJ.
+taciturn ADJ.
+tactile ADJ.
+taint V.
+talisman N.
+talon N.
+tangential ADJ.
+tangible ADJ.
+tanner N.
+tantalize V.
+tantamount ADJ.
+tantrum N.
+tarantula N.
+tarry V.
+taut ADJ.
+tautological ADJ.
+tautology N.
+tawdry ADJ.
+tedious ADJ.
+temerity N.
+temper V.
+temperament N.
+temperate ADJ.
+tempestuous ADJ.
+tempo N.
+temporal ADJ.
+temporize V.
+tenacious ADJ.
+tenacity N.
+tendentious ADJ.
+tender V.
+tenet N.
+tensile ADJ.
+tenuous ADJ.
+tenure N.
+tepid ADJ.
+termination N.
+terminology N.
+terrestrial ADJ.
+terse ADJ.
+testy ADJ.
+tether V.
+thematic ADJ.
+theocracy N.
+theoretical ADJ.
+therapeutic ADJ.
+thermal ADJ.
+thespian ADJ.
+threadbare ADJ.
+thrifty ADJ.
+thrive V.
+throes N.
+throng N.
+thwart V.
+tightwad N.
+tiller N.
+timidity N.
+timorous ADJ.
+tirade N.
+titanic ADJ.
+title N.
+titter N.
+titular ADJ.
+toady N.
+tome N.
+tonic ADJ.
+topography N.
+torpor N.
+torrent N.
+torrid ADJ.
+torso N.
+tortuous ADJ.
+totter V.
+touchstone N.
+touchy ADJ.
+tout V.
+toxic ADJ.
+tract N.
+tractable ADJ.
+traduce V.
+trajectory N.
+tranquillity N.
+transcendent ADJ.
+transcribe V.
+transgression N.
+transient ADJ.
+transition N.
+transitory ADJ.
+translucent ADJ.
+transmute V.
+transparent ADJ.
+transport N.
+trappings N.
+traumatic ADJ.
+travail N.
+traverse V.
+travesty N.
+treacly ADJ.
+treatise N.
+trek N.
+tremor N.
+tremulous ADJ.
+trenchant ADJ.
+trepidation N.
+trespass V.
+tribute N.
+trifling ADJ.
+trigger V.
+trinket N.
+trite ADJ.
+trivial ADJ.
+trough N.
+truculence N.
+truism N.
+truncate V.
+tryst N.
+tumult N.
+tundra N.
+turbid ADJ.
+turbulence N.
+turgid ADJ.
+turmoil N.
+turncoat N.
+turpitude N.
+tutelage N.
+tycoon N.
+typhoon N.
+tyranny N.
+tyro N.
+ubiquitous ADJ.
+ulterior ADJ.
+ultimate ADJ.
+unaccountable ADJ.
+unanimity N.
+unassailable ADJ.
+unbridled ADJ.
+uncanny ADJ.
+unconscionable ADJ.
+uncouth ADJ.
+underlying ADJ.
+undermine V.
+underscore V.
+undulating ADJ.
+unearth V.
+unequivocal ADJ.
+unerringly ADJ.
+unfathomable ADJ.
+unfetter V.
+unfrock V.
+ungainly ADJ.
+uniformity N.
+unimpeachable ADJ.
+uninhibited ADJ.
+unintimidating ADJ.
+unique ADJ.
+universal ADJ.
+unkempt ADJ.
+unmitigated ADJ.
+unobtrusive ADJ.
+unpalatable ADJ.
+unprecedented ADJ.
+unprepossessing ADJ.
+unravel V.
+unrequited ADJ.
+unruly ADJ.
+unscathed ADJ.
+unseemly ADJ.
+unsightly ADJ.
+unstinting ADJ.
+untenable ADJ.
+unwarranted ADJ.
+unwieldy ADJ.
+unwitting ADJ.
+upbraid V.
+upshot N.
+urbane ADJ.
+usurp V.
+utopia N.
+vacuous ADJ.
+vagabond N.
+vagrant N.
+valedictory ADJ.
+valid ADJ.
+validate V.
+valor N.
+vampire N.
+vanguard N.
+vantage N.
+vapid ADJ.
+vaporize V.
+variegated ADJ.
+veer V.
+vehement ADJ.
+velocity N.
+venal ADJ.
+vendetta N.
+vendor N.
+veneer N.
+venerable ADJ.
+venerate V.
+venial ADJ.
+venom N.
+vent N.
+vent V.
+ventriloquist N.
+venturesome ADJ.
+veracity N.
+verbalize V.
+verbiage N.
+verbose ADJ.
+verdant ADJ.
+verge N.
+verisimilitude N.
+verity N.
+vernacular N.
+versatile ADJ.
+vertex N.
+vertigo N.
+verve N.
+vestige N.
+vex N.
+viable ADJ.
+vicarious ADJ.
+vicissitude N.
+vie V.
+vigilance N.
+vignette N.
+vigor N.
+vilify V.
+vindicate V.
+vindictive ADJ.
+viper N.
+virile ADJ.
+virtual ADJ.
+virtue N.
+virtuoso N.
+virulent ADJ.
+virus N.
+visceral ADJ.
+viscid ADJ.
+viscous ADJ.
+vise N.
+visionary ADJ.
+vital ADJ.
+vitriolic ADJ.
+vituperative ADJ.
+vivacious ADJ.
+vociferous ADJ.
+vogue N.
+volatile ADJ.
+volition N.
+voluble ADJ.
+voluminous ADJ.
+voluptuous ADJ.
+voracious ADJ.
+vortex N.
+vouchsafe V.
+voyeur N.
+vulnerable ADJ.
+waffle V.
+waft V.
+waggish ADJ.
+waif N.
+waive V.
+wake N.
+wallow V.
+wan ADJ.
+wane V.
+wanton ADJ.
+warble V.
+warrant V.
+warranty N.
+wary ADJ.
+wastrel N.
+watershed N.
+wax V.
+waylay V.
+wean V.
+weather V.
+welter N.
+wheedle V.
+whelp N.
+whet V.
+whiff N.
+whimsical ADJ.
+whinny V.
+whittle V.
+willful ADJ.
+wily ADJ.
+wince V.
+windfall N.
+winnow V.
+winsome ADJ.
+wispy ADJ.
+wistful ADJ.
+withdrawn ADJ.
+wither V.
+withhold V.
+withstand V.
+witless ADJ.
+witticism N.
+wizardry N.
+woe N.
+worldly ADJ.
+wrath N.
+wrench V.
+writhe V.
+wry ADJ.
+xenophobia N.
+yen N.
+yield V.
+yield N.
+yoke V.
+yore N.
+zany ADJ.
+zeal N.
+zealot N.
+zenith N.
+zephyr N.
