@@ -15,7 +15,13 @@ chrome.runtime.onMessage.addListener(
 
 var findSynonym = function(paragraph){
 	var text = paragraph.html();
-	console.log("TEXT: " + text)
+	var content = paragraph.text();
+
+	if(text != content)
+		return;
+
+	console.log("EQUAL: " + text)
+	console.log("CONTENT: " + content)
 	chrome.runtime.sendMessage({type: "request", content: text}, 
 		function(response){
 			console.log("RESP: "+response)
