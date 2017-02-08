@@ -1,3 +1,8 @@
+//queue for paragraphs
+pq = [];
+var numP = 0;
+var doneP = 0;
+
 // content.js
 chrome.runtime.onMessage.addListener(
 	function(request, sender, sendResponse) {
@@ -13,28 +18,47 @@ chrome.runtime.onMessage.addListener(
 	}
 	);
 
-var findSynonym = function(paragraph){
+function analyzeQueue(){
+	if(pq.length == 0)
+		return;
+
+	paragraph = pq.shift();
+	console.log("paragraph: " + paragraph);
 	var text = paragraph.html();
 	var content = paragraph.text();
 
-	if(text != content)
-		return;
-
-	console.log("EQUAL: " + text)
+	console.log("TEXT: " + text)
 	console.log("CONTENT: " + content)
+
+	if(text != content){
+		doneP++;
+		if(pq.length == 0)
+			return;
+		else{
+			analyzeQueue();
+			return;
+		}
+	}
+
 	chrome.runtime.sendMessage({type: "request", content: text}, 
 		function(response){
 			console.log("RESP: "+response)
-
 			paragraph.html(response.content);
+			doneP++;
+			analyzeQueue();
 		});
 }
 
 $(document).ready(function(){
 	$("p").each( function(){
 		//replace words with their synonyms
-		findSynonym($(this));
+		pq.push($(this));
+		numP++;
 	});
+
+	console.log("pq: " + pq);
+
+	analyzeQueue();
 	// The node to be monitored
 	var target = $("body,html");
 
@@ -47,9 +71,13 @@ $(document).ready(function(){
 	    	$nodes.each(function() {
 	    		var $node = $( this );
 	    		var $paragraphs = $node.find("p");
+	    		var done = (doneP == numP);
 	    		$paragraphs.each(function(){
-	    			findSynonym($(this));
+	    			pq.push($(this));
+	    			numP++;
 	    		});
+	    		if(done) //if previous analyze is finished
+	    			analyzeQueue();
 	    	});
 	    }
 	});
@@ -82,4 +110,3 @@ $('a').qtip({
 	show: 'click',
 	hide: 'click'
 });
-//http://words.bighugelabs.com/api/{version}/{api key}/{word}/{format}

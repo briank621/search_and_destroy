@@ -6,8 +6,11 @@ var seenWords = {};
 var skipwords = {};
 
 var pos = {"J":"adj", "N":"noun", "V":"verb"};
+var punc = {"!":true, ".": true, ",": true, "?": true}
 var callsLeft = 0;
 var resp = "";
+
+var paragraph = [];
 
 //reads the wordlist
 $.get('syn.json', function(data) {
@@ -23,47 +26,72 @@ $.get('skip_words', function(data) {
     skipwords[lines[i]] = 1;
 }, 'text');
 
-var getSynonym = function(sentence){
+function ajaxRequest(count, sentence){
+  return $.Deferred( 
+    function(){
+      var self = this;
+      $.ajax({
+        url: "http://text-processing.com/api/tag/",
+        type: "POST",
+        data: "text=" + sentence,
+        dataType: "json",
+        success: function(resultData){
+          changedSent = getSynonym(resultData["text"]);
+          console.log("changedSent: " + changedSent + "\tindex: " + count)
+          paragraph[count] = changedSent.join(' ');
+          self.resolve();
+        }
+      })
+    });
+}
+
+//creates a deferred list of the asynchronous definition calls
+function createDeferred(sentences){
+  var deferreds = [];
+  var i = 0;
+  for (i = 0; i < sentences.length; i++) {
+    var count = i;
+    console.log("ADDING: " + sentences[i]);
+    if(sentences[i].indexOf(";") > -1){
+      paragraph[count] = sentences[i];
+      continue;
+    }
+    deferreds.push(ajaxRequest(count, sentences[i]));
+  }
+  return deferreds;
+}
+
+function getSynonym(sentence){
   var words = sentence.split(" ");
-  var out = "";
-  console.log("sentence: " + sentence)
-  console.log("words: " + words)
-  for(var i = 0; len = word.length i < len; i++){
+  var out = [];
+  console.log("sentence: " + words);
+  for(var i = 0; len = words.length, i < len; i++){
     var word = words[i];
     var slash = word.indexOf("/");
     var w = word.substring(0, slash);
     if(slash < 0)
       continue;
+    //get pos
     var c = word.charAt(slash + 1);
+    if(c in punc){ //attach punctuation to previous word
+      out[out.length - 1] += c;
+      continue;
+    }
     if (!(c in pos)){
-      out += w + " ";
+      out.push(w);
       continue;
     }
     var p = pos[c];
     var key = w + " " + p;
+    // console.log("key: " + key);
     if(! (key in dict)){
-      out += w + " ";
+      out.push(w);
       continue;
     }
-    var replace = dict[key]
-    out += "<span class='highlight-replace' title='text'>HUYAH " + replace + "(" + w + ")" + "</span> ";
+    var replace = dict[key][Math.floor(Math.random()*dict[key].length)];
+    out.push("<span class='highlight-replace' title='text'>" + replace + "(" + w + ")" + "</span>");
   }
-  console.log("OUT: " + out)
   return out;
-}
-
-var parseSentence = function(sentence){
-  $.ajax({
-    async: false,
-    url: "http://text-processing.com/api/tag/",
-    type: "POST",
-    data: "text=" + sentence,
-    dataType: "json",
-    success: function(resultData){
-
-      return getSynonym(resultData["text"]);
-    }
-  })
 }
 
 //Listens for words to replace
@@ -74,24 +102,18 @@ chrome.runtime.onMessage.addListener(
 
       //extract sentences with regex
       var text = message.content;
-      console.log("TEXT: " + text)
       var sentences = text.match( /[^\.!\?]+[\.!\?]+/g );
 
-      console.log("sentences: " + sentences)
+      paragraph = []
+      var deferreds = createDeferred(sentences);
 
-      sentences.forEach(function(e, i){
-        ans += parseSentence(e);
+      $.when.apply(null, deferreds).done(function() {
+        var ans = paragraph.join(' ');
+        console.log("REPLACEMENT: " + ans);
+        var resp = {type: "response", content: ans};
+        console.log("response: " + resp)
+        sendResponse(resp);
       });
-
-      console.log("ans after foreach: " + ans)
-
-      for(i = 0; i < sentences.length; i++){
-        ans += parseSentence(sentences[i]);
-      }
-
-      var resp = {type: "response", content: ans};
-      console.log("SENDING:  " + resp.content)
-      sendResponse(resp);
       return true;
     }
   });
