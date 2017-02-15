@@ -13,7 +13,7 @@ chrome.runtime.onMessage.addListener(
 			chrome.runtime.sendMessage({"message": "open_new_tab", "url": firstHref});
 		}
 		if( request.message === "request_complete" ) {
-			console.log("hava nagila");
+			;
 		}
 	}
 	);
@@ -23,12 +23,8 @@ function analyzeQueue(){
 		return;
 
 	paragraph = pq.shift();
-	console.log("paragraph: " + paragraph);
 	var text = paragraph.html();
 	var content = paragraph.text();
-
-	console.log("TEXT: " + text)
-	console.log("CONTENT: " + content)
 
 	if(text != content){
 		doneP++;
@@ -43,7 +39,8 @@ function analyzeQueue(){
 	chrome.runtime.sendMessage({type: "request", content: text}, 
 		function(response){
 			console.log("RESP: "+response)
-			paragraph.html(response.content);
+			if(response != null)
+				paragraph.html(response.content);
 			doneP++;
 			analyzeQueue();
 		});
@@ -55,8 +52,6 @@ $(document).ready(function(){
 		pq.push($(this));
 		numP++;
 	});
-
-	console.log("pq: " + pq);
 
 	analyzeQueue();
 	// The node to be monitored
@@ -93,20 +88,4 @@ $(document).ready(function(){
 
 	// Pass in the target node, as well as the observer options
 	observer.observe(target[0], config);
-});
-
-$('span.highlight-replace').qtip({
-	content: {
-		text: "Yes, please work"
-	},
-	show: 'click',
-	hide: 'click'
-});
-
-$('a').qtip({
-	content: {
-		text: "Yes, please work"
-	},
-	show: 'click',
-	hide: 'click'
 });

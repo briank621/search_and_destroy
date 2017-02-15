@@ -37,7 +37,6 @@ function ajaxRequest(count, sentence){
         dataType: "json",
         success: function(resultData){
           changedSent = getSynonym(resultData["text"]);
-          console.log("changedSent: " + changedSent + "\tindex: " + count)
           paragraph[count] = changedSent.join(' ');
           self.resolve();
         }
@@ -51,8 +50,7 @@ function createDeferred(sentences){
   var i = 0;
   for (i = 0; i < sentences.length; i++) {
     var count = i;
-    console.log("ADDING: " + sentences[i]);
-    if(sentences[i].indexOf(";") > -1){
+    if(sentences[i].indexOf(";") > -1 || sentences[i].indexOf("'") > -1){
       paragraph[count] = sentences[i];
       continue;
     }
@@ -64,7 +62,6 @@ function createDeferred(sentences){
 function getSynonym(sentence){
   var words = sentence.split(" ");
   var out = [];
-  console.log("sentence: " + words);
   for(var i = 0; len = words.length, i < len; i++){
     var word = words[i];
     var slash = word.indexOf("/");
@@ -89,7 +86,7 @@ function getSynonym(sentence){
       continue;
     }
     var replace = dict[key][Math.floor(Math.random()*dict[key].length)];
-    out.push("<span class='highlight-replace' title='text'>" + replace + "(" + w + ")" + "</span>");
+    out.push("<a title=\"" + w +"\" class=\"masterTooltip exthighlight\">" + replace + "</a>");
   }
   return out;
 }
@@ -104,14 +101,16 @@ chrome.runtime.onMessage.addListener(
       var text = message.content;
       var sentences = text.match( /[^\.!\?]+[\.!\?]+/g );
 
+      if(sentences == null){
+        return;
+      }
+
       paragraph = []
       var deferreds = createDeferred(sentences);
 
       $.when.apply(null, deferreds).done(function() {
         var ans = paragraph.join(' ');
-        console.log("REPLACEMENT: " + ans);
         var resp = {type: "response", content: ans};
-        console.log("response: " + resp)
         sendResponse(resp);
       });
       return true;
