@@ -86,7 +86,7 @@ function getSynonym(sentence){
       continue;
     }
     var replace = dict[key][Math.floor(Math.random()*dict[key].length)];
-    out.push("<a title=\"" + w +"\" class=\"masterTooltip exthighlight\">" + replace + "</a>");
+    out.push("<span title=\"" + w +"\" class=\"masterTooltip exthighlight\">" + replace + "</span>");
   }
   return out;
 }
