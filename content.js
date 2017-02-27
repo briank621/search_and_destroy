@@ -9,11 +9,9 @@ chrome.runtime.onMessage.addListener(
 		if( request.message === "clicked_browser_action" ) {
 			var firstHref = $("a[href^='http']").eq(0).attr("href");
 
-			console.log(firstHref);
 			chrome.runtime.sendMessage({"message": "open_new_tab", "url": firstHref});
 		}
 		if( request.message === "request_complete" ) {
-			console.log("hava nagila");
 		}
 	}
 	);
@@ -23,12 +21,12 @@ function analyzeQueue(){
 		return;
 
 	paragraph = pq.shift();
-	console.log("paragraph: " + paragraph);
+	// console.log("paragraph: " + paragraph);
 	var text = paragraph.html();
 	var content = paragraph.text();
 
-	console.log("TEXT: " + text)
-	console.log("CONTENT: " + content)
+	// console.log("TEXT: " + text)
+	// console.log("CONTENT: " + content)
 
 	if(text != content){
 		doneP++;
@@ -42,21 +40,22 @@ function analyzeQueue(){
 
 	chrome.runtime.sendMessage({type: "request", content: text}, 
 		function(response){
-			console.log("RESP: "+response)
-			paragraph.html(response.content);
+			if(response != null)
+				paragraph.html(response.content);
 			doneP++;
 			analyzeQueue();
 		});
 }
 
 $(document).ready(function(){
+	console.log("ready");
 	$("p").each( function(){
 		//replace words with their synonyms
 		pq.push($(this));
 		numP++;
 	});
 
-	console.log("pq: " + pq);
+	// console.log("pq: " + pq);
 
 	analyzeQueue();
 	// The node to be monitored
@@ -93,20 +92,4 @@ $(document).ready(function(){
 
 	// Pass in the target node, as well as the observer options
 	observer.observe(target[0], config);
-});
-
-$('span.highlight-replace').qtip({
-	content: {
-		text: "Yes, please work"
-	},
-	show: 'click',
-	hide: 'click'
-});
-
-$('a').qtip({
-	content: {
-		text: "Yes, please work"
-	},
-	show: 'click',
-	hide: 'click'
 });

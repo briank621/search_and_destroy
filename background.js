@@ -52,7 +52,7 @@ function createDeferred(sentences){
   for (i = 0; i < sentences.length; i++) {
     var count = i;
     console.log("ADDING: " + sentences[i]);
-    if(sentences[i].indexOf(";") > -1){
+    if(sentences[i].indexOf(";") > -1 || sentences[i].indexOf("'") > -1){
       paragraph[count] = sentences[i];
       continue;
     }
@@ -64,7 +64,7 @@ function createDeferred(sentences){
 function getSynonym(sentence){
   var words = sentence.split(" ");
   var out = [];
-  console.log("sentence: " + words);
+  // console.log("sentence: " + words);
   for(var i = 0; len = words.length, i < len; i++){
     var word = words[i];
     var slash = word.indexOf("/");
@@ -89,7 +89,7 @@ function getSynonym(sentence){
       continue;
     }
     var replace = dict[key][Math.floor(Math.random()*dict[key].length)];
-    out.push("<span class='highlight-replace' title='text'>" + replace + "(" + w + ")" + "</span>");
+    out.push("<span title=\"" + w +"\" class=\"masterTooltip exthighlight\">" + replace + "</span>");
   }
   return out;
 }
@@ -109,9 +109,9 @@ chrome.runtime.onMessage.addListener(
 
       $.when.apply(null, deferreds).done(function() {
         var ans = paragraph.join(' ');
-        console.log("REPLACEMENT: " + ans);
+        // console.log("REPLACEMENT: " + ans);
         var resp = {type: "response", content: ans};
-        console.log("response: " + resp)
+        // console.log("response: " + resp)
         sendResponse(resp);
       });
       return true;
