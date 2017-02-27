@@ -42,7 +42,16 @@ public class FindSyn{
 
 	}
 
-	public static void findSyn(String w) throws Exception{
+	public static String findPOS(Document doc){
+		Element l = doc.select(".synonym-description").first();
+		Element pos = doc.select(".txt").first();
+		String p = pos.text();
+		return p;
+	}
+
+	public static void findSyn(String str) throws Exception{
+		String[] line = str.split(" ");
+		String w = line[0];
 		System.out.println(w);
 		String url = String.format("http://www.thesaurus.com/browse/%s?s=t", w);
 		Document doc;
@@ -58,19 +67,23 @@ public class FindSyn{
 			System.out.println("null list: " + w);
 			return;
 		}
-		Elements words = l.select("li");
+		String pos = findPOS(doc);
+		Elements words = l.select("[data-category*='relevant-3']");
+		// Elements words = l.select("li");
 		for(Element e: words){
 			String text = e.text();
 			text = text.substring(0, text.length() - 4);
 			ArrayList<String> syn;
+			String key = text + " " + pos;
 			if(text.equals(w))
 				continue;
-			if(map.containsKey(text))
-				syn = map.get(text);
+			if(map.containsKey(key))
+				syn = map.get(key);		
 			else
 				syn = new ArrayList<String>();
 			syn.add(w);
-			map.put(text, syn);
+			// System.out.println("key: " + key + "\tsyn: "+ syn);
+			map.put(key, syn);
 		}
 		return;
 	}

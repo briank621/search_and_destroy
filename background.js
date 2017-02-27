@@ -37,7 +37,6 @@ function ajaxRequest(count, sentence){
         dataType: "json",
         success: function(resultData){
           changedSent = getSynonym(resultData["text"]);
-          console.log("changedSent: " + changedSent + "\tindex: " + count)
           paragraph[count] = changedSent.join(' ');
           self.resolve();
         }
@@ -51,7 +50,7 @@ function createDeferred(sentences){
   var i = 0;
   for (i = 0; i < sentences.length; i++) {
     var count = i;
-    console.log("ADDING: " + sentences[i]);
+    // console.log("ADDING: " + sentences[i]);
     if(sentences[i].indexOf(";") > -1 || sentences[i].indexOf("'") > -1){
       paragraph[count] = sentences[i];
       continue;
@@ -103,6 +102,10 @@ chrome.runtime.onMessage.addListener(
       //extract sentences with regex
       var text = message.content;
       var sentences = text.match( /[^\.!\?]+[\.!\?]+/g );
+
+      if(sentences == null){
+        return;
+      }
 
       paragraph = []
       var deferreds = createDeferred(sentences);

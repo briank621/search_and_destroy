@@ -12,6 +12,7 @@ chrome.runtime.onMessage.addListener(
 			chrome.runtime.sendMessage({"message": "open_new_tab", "url": firstHref});
 		}
 		if( request.message === "request_complete" ) {
+			;
 		}
 	}
 	);
@@ -48,14 +49,12 @@ function analyzeQueue(){
 }
 
 $(document).ready(function(){
-	console.log("ready");
+	// console.log("ready");
 	$("p").each( function(){
 		//replace words with their synonyms
 		pq.push($(this));
 		numP++;
 	});
-
-	// console.log("pq: " + pq);
 
 	analyzeQueue();
 	// The node to be monitored
@@ -93,3 +92,4 @@ $(document).ready(function(){
 	// Pass in the target node, as well as the observer options
 	observer.observe(target[0], config);
 });
+
