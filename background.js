@@ -87,8 +87,17 @@ function getSynonym(sentence){
       out.push(w);
       continue;
     }
+    if(seenWords[dict[key]]){
+      out.push(w);
+      continue;
+    }
+    seenWords[dict[key]] = true;
     var replace = dict[key][Math.floor(Math.random()*dict[key].length)];
-    out.push("<span title=\"" + w +"\" class=\"masterTooltip exthighlight\">" + replace + "</span>");
+    var hr = 'href=\"' + "http://www.dictionary.com/browse/" + w + "?s=t\""
+    var target = " target=\"_blank\""
+    var titleTag = " title=\"" + w
+    var classTag = "\" class=\"masterTooltip exthighlight\""
+    out.push("<a " + hr + target + titleTag + classTag + ">" + replace + "</a>");
   }
   return out;
 }
@@ -106,7 +115,8 @@ chrome.runtime.onMessage.addListener(
       if(sentences == null){
         return;
       }
-
+      
+      seenWords = {};
       paragraph = []
       var deferreds = createDeferred(sentences);
 
