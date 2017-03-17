@@ -4,6 +4,8 @@
 var dict = {};
 var seenWords = {};
 var skipwords = {};
+var active = true;
+var density = 10;
 
 var pos = {"J":"adj", "N":"noun", "V":"verb"};
 var punc = {"!":true, ".": true, ",": true, "?": true}
@@ -25,6 +27,11 @@ $.get('skip_words', function(data) {
   for (var i = 0, len = lines.length; i < len; i++)
     skipwords[lines[i]] = 1;
 }, 'text');
+
+function updateIcon(path) {
+  chrome.browserAction.setIcon({path:path});
+}
+
 
 function ajaxRequest(count, sentence){
   return $.Deferred( 
@@ -96,7 +103,7 @@ function getSynonym(sentence){
     var hr = 'href=\"' + "http://www.dictionary.com/browse/" + w + "?s=t\""
     var target = " target=\"_blank\""
     var titleTag = " title=\"" + w
-    var classTag = "\" class=\"masterTooltip exthighlight\""
+    var classTag = "\" class=\"masterTooltip exthighlight nounderline\""
     out.push("<a " + hr + target + titleTag + classTag + ">" + replace + "</a>");
   }
   return out;
@@ -108,9 +115,15 @@ chrome.runtime.onMessage.addListener(
 		var ans = ""; //the string to return
 		if (message.type == "request"){
 
+      if(! active){
+        sendResponse(null);
+        return true;
+      }
       //extract sentences with regex
       var text = message.content;
       var sentences = text.match( /[^\.!\?]+[\.!\?]+/g );
+
+      console.log("sentences: " + sentences)
 
       if(sentences == null){
         return;
@@ -128,6 +141,25 @@ chrome.runtime.onMessage.addListener(
         sendResponse(resp);
       });
       return true;
+    }
+    if (message.type == "toggle"){
+      console.log("TOGGLED")
+      active = !active;
+      try{
+        if(active)
+          chrome.browserAction.setIcon({path: "icon.png"});
+        else
+          chrome.browserAction.setIcon({path: "negate.png"});
+      }
+      catch(e){
+        console.log(e);
+      }
+    }
+    if (message.type == "densityQuery"){
+      sendResponse({val: density});
+    }
+    if(message.type == "densityChange"){
+      density = message.value;
     }
   });
 

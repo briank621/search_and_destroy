@@ -9,6 +9,10 @@
 	font-size:12px Arial;
 }
 
+.nounderline {
+	text-decoration: none;
+}
+
 .exthighlight {
 	background-color: #FFFF00
 }

@@ -1,5 +1,6 @@
 //queue for paragraphs
 pq = [];
+changedParagraphs = [];
 var numP = 0;
 var doneP = 0;
 
@@ -17,19 +18,28 @@ chrome.runtime.onMessage.addListener(
 	}
 	);
 
+function printParagraphs(paragraphs){
+	for (var i = 0; i < paragraphs.length; i++) 
+		console.log(paragraphs[i].html());
+}
+
+function modifyParagraphs(){
+	
+}
+
 function analyzeQueue(){
 	if(pq.length == 0)
 		return;
 
 	paragraph = pq.shift();
-	// console.log("paragraph: " + paragraph);
+	console.log("paragraph: " + paragraph);
 	var text = paragraph.html();
 	var content = paragraph.text();
 
-	// console.log("TEXT: " + text)
-	// console.log("CONTENT: " + content)
+	console.log("TEXT: " + text)
+	console.log("CONTENT: " + content)
 
-	if(text != content){
+	if(text != content || ! text.endsWith(".")){
 		doneP++;
 		if(pq.length == 0)
 			return;
@@ -41,8 +51,11 @@ function analyzeQueue(){
 
 	chrome.runtime.sendMessage({type: "request", content: text}, 
 		function(response){
+			console.log("RESP: " + response)
 			if(response != null)
 				paragraph.html(response.content);
+				changedParagraphs.push(paragraph)
+				printParagraphs(changedParagraphs)
 			doneP++;
 			analyzeQueue();
 		});
