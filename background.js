@@ -14,6 +14,23 @@ var resp = "";
 
 var paragraph = [];
 
+if(active)
+  chrome.browserAction.setIcon({path: "icon.png"})
+else
+  chrome.browserAction.setIcon({path: "negate.png"})
+
+
+function sendAll(json){
+  console.log("json: " + json["message"]);
+  chrome.tabs.query({}, function(tabs) {
+    for(var i = 0; i < tabs.length; i++){
+      console.log("sending to: " + tabs[i].url);
+      chrome.tabs.sendMessage(tabs[i].id, json, function(a){});
+    }
+  });
+  console.log("sent");
+}
+
 //reads the wordlist
 $.get('syn.json', function(data) {
   var syn = JSON.parse(data)
@@ -70,7 +87,7 @@ function createDeferred(sentences){
 function getSynonym(sentence){
   var words = sentence.split(" ");
   var out = [];
-  // console.log("sentence: " + words);
+  console.log("sentence: " + words);
   for(var i = 0; len = words.length, i < len; i++){
     var word = words[i];
     var slash = word.indexOf("/");
@@ -78,9 +95,13 @@ function getSynonym(sentence){
     if(slash < 0)
       continue;
     //get pos
+    console.log("word: " + w)
     var c = word.charAt(slash + 1);
-    if(c in punc){ //attach punctuation to previous word
-      out[out.length - 1] += c;
+    if(punc[w]){ //attach punctuation to previous word
+      out[out.length - 1] += w;
+      console.log("before: " + out[out.length - 1]);
+      console.log(w);
+      console.log("inside: " + out[out.length - 1]);
       continue;
     }
     if (!(c in pos)){
@@ -102,9 +123,9 @@ function getSynonym(sentence){
     var replace = dict[key][Math.floor(Math.random()*dict[key].length)];
     var hr = 'href=\"' + "http://www.dictionary.com/browse/" + w + "?s=t\""
     var target = " target=\"_blank\""
-    var titleTag = " title=\"" + w
-    var classTag = "\" class=\"masterTooltip exthighlight nounderline\""
-    out.push("<a " + hr + target + titleTag + classTag + ">" + replace + "</a>");
+    var titleTag = " inactiveTitle=\"" + replace
+    var classTag = "\" class=\"inactiveMaster nounderline\""
+    out.push("<a " + hr + target + titleTag + classTag + ">" + w + "</a>");
   }
   return out;
 }
@@ -146,10 +167,14 @@ chrome.runtime.onMessage.addListener(
       console.log("TOGGLED")
       active = !active;
       try{
-        if(active)
+        if(active){
           chrome.browserAction.setIcon({path: "icon.png"});
-        else
+          sendAll({"message":"toggledOn", val:density});
+        }
+        else{
           chrome.browserAction.setIcon({path: "negate.png"});
+          sendAll({"message":"toggledOff"});
+        }
       }
       catch(e){
         console.log(e);
@@ -160,6 +185,10 @@ chrome.runtime.onMessage.addListener(
     }
     if(message.type == "densityChange"){
       density = message.value;
+      sendAll({"message":"densityChange", val:density})
+    }
+    if(message.type == "activeQuery"){
+      sendResponse({val:active})
     }
   });
 
